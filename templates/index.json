@@ -37,6 +37,117 @@
         "overlay_opacity": 30
       }
     },
+    "logo_list_EQNnRY": {
+      "type": "logo-list",
+      "blocks": {
+        "logo_UNfeqT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_erXnqf": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo_TF1_Group_2020_svg.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_MQHCPB": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bfm-tv-logo.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_mcAmPw": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        }
+      },
+      "block_order": [
+        "logo_UNfeqT",
+        "logo_erXnqf",
+        "logo_MQHCPB",
+        "logo_mcAmPw"
+      ],
+      "name": "Logo list",
+      "settings": {
+        "full_width": true,
+        "stack_mobile": true,
+        "title": "Vu sur :",
+        "content": "",
+        "text_alignment": "center",
+        "items_per_row": 5,
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
+    "rich_text_HUX8AP": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_rg4zmf": {
+          "type": "heading",
+          "settings": {
+            "text": "Pourquoi choisir Localizme ?",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_rg4zmf"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "small",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "image_with_text_overlay_ktBcxz": {
+      "type": "image-with-text-overlay",
+      "blocks": {
+        "subheading_gyfHWH": {
+          "type": "subheading",
+          "settings": {
+            "text": ""
+          }
+        }
+      },
+      "block_order": [
+        "subheading_gyfHWH"
+      ],
+      "name": "Image with text overlay",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "enable_parallax": false,
+        "image_size": "auto",
+        "mobile_text_position": "place-self-center text-center",
+        "desktop_text_position": "sm:place-self-center sm:text-center",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 30
+      }
+    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
@@ -611,6 +722,9 @@
   },
   "order": [
     "image-with-text-overlay",
+    "logo_list_EQNnRY",
+    "rich_text_HUX8AP",
+    "image_with_text_overlay_ktBcxz",
     "media-grid",
     "before-after-image",
     "press",

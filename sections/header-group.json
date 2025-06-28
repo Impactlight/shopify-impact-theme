@@ -17,13 +17,29 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "Announce something here",
+            "text": "50% de remise",
+            "url": ""
+          }
+        },
+        "message_bVBGGT": {
+          "type": "message",
+          "settings": {
+            "text": "Paiement securisee",
+            "url": ""
+          }
+        },
+        "message_XPiKG6": {
+          "type": "message",
+          "settings": {
+            "text": "Livraison gratuite",
             "url": ""
           }
         }
       },
       "block_order": [
-        "message"
+        "message",
+        "message_bVBGGT",
+        "message_XPiKG6"
       ],
       "settings": {
         "enable_sticky": false,
@@ -42,7 +58,7 @@
         "hide_on_scroll": false,
         "logo": "shopify://shop_images/LOCALIZME.png",
         "logo_max_width": 200,
-        "logo_mobile_max_width": 100,
+        "logo_mobile_max_width": 140,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
