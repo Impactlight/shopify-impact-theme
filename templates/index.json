@@ -176,6 +176,78 @@
         "text_color": ""
       }
     },
+    "multi_column_9k9Hy3": {
+      "type": "multi-column",
+      "blocks": {
+        "item_8LY3xr": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><br/>92% des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_aye3h6": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><br/> +300 valises retrouvées grâce à Localizme</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yh37ea": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><br/>+1 200 parents rassurés chaque jour<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AqePjm": {
+          "type": "item",
+          "settings": {
+            "column_size": "4",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p><br/>0 abonnement. 100% satisfaction.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_8LY3xr",
+        "item_aye3h6",
+        "item_yh37ea",
+        "item_AqePjm"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "media-grid": {
       "type": "media-grid",
       "blocks": {
@@ -754,6 +826,7 @@
     "rich_text_HUX8AP",
     "image_with_text_overlay_ktBcxz",
     "rich_text_cGyEJL",
+    "multi_column_9k9Hy3",
     "media-grid",
     "before-after-image",
     "press",
