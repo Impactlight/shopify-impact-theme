@@ -182,10 +182,11 @@
         "item_8LY3xr": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-06-29_003057.png",
             "column_size": "4",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p><br/>92% des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes<br/><br/></p>",
+            "content": "<h3><br/>des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes<br/><br/></h3>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -194,10 +195,11 @@
         "item_aye3h6": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/copy_3.png",
             "column_size": "4",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p><br/> +300 valises retrouvées grâce à Localizme</p>",
+            "content": "<h3><br/>Valises retrouvées grâce à Localizme</h3>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -206,10 +208,11 @@
         "item_yh37ea": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/copy_4.png",
             "column_size": "4",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p><br/>+1 200 parents rassurés chaque jour<br/><br/></p>",
+            "content": "<h3><br/>Parents rassurés chaque jour<br/><br/></h3>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -218,10 +221,11 @@
         "item_AqePjm": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/copy_5.png",
             "column_size": "4",
-            "title": "Column title",
+            "title": "",
             "heading_tag": "h4",
-            "content": "<p><br/>0 abonnement. 100% satisfaction.<br/><br/></p>",
+            "content": "<h3><br/>Abonnement. 100% satisfaction.<br/><br/></h3>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -239,7 +243,7 @@
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "medium",
-        "text_alignment": "start",
+        "text_alignment": "center",
         "subheading": "",
         "title": "",
         "content": "",
