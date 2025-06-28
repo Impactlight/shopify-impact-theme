@@ -17,14 +17,14 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "50% de remise",
+            "text": "2 achetees = 1 offerte",
             "url": ""
           }
         },
         "message_bVBGGT": {
           "type": "message",
           "settings": {
-            "text": "Paiement securisee",
+            "text": "Paiement securise",
             "url": ""
           }
         },
@@ -43,7 +43,7 @@
       ],
       "settings": {
         "enable_sticky": false,
-        "text_size": "text-xs",
+        "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
         "background": "#1a1a1a",
