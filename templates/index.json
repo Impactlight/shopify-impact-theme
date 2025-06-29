@@ -482,6 +482,14 @@
             "collapse_content": false
           }
         },
+        "image_AeVEgJ": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/Offre_Speciale_1.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "variant_picker_3VmLhc": {
           "type": "variant_picker",
           "settings": {
@@ -555,6 +563,7 @@
         "rating_6pttnP",
         "separator_i8tV4q",
         "description_4efjyL",
+        "image_AeVEgJ",
         "variant_picker_3VmLhc",
         "quantity_selector_9CBk9q",
         "buy_buttons_LDyiKA",
