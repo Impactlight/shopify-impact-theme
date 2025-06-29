@@ -186,7 +186,7 @@
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
-            "content": "<h3><br/>des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes<br/><br/></h3>",
+            "content": "<h5>des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes</h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -199,7 +199,7 @@
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
-            "content": "<h3><br/>Valises retrouvées grâce à Localizme</h3>",
+            "content": "<h5>Valises retrouvées grâce à Localizme</h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -212,7 +212,7 @@
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
-            "content": "<h3><br/>Parents rassurés chaque jour<br/><br/></h3>",
+            "content": "<h5>Parents rassurés chaque jour</h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -225,7 +225,7 @@
             "column_size": "4",
             "title": "",
             "heading_tag": "h4",
-            "content": "<h3><br/>Abonnement. 100% satisfaction.<br/><br/></h3>",
+            "content": "<h5>Abonnement. 100% satisfaction.</h5>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
