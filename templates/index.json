@@ -179,19 +179,6 @@
     "multi_column_9k9Hy3": {
       "type": "multi-column",
       "blocks": {
-        "item_8LY3xr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-06-29_003057.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h5>des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_aye3h6": {
           "type": "item",
           "settings": {
@@ -218,6 +205,19 @@
             "link_style": "link"
           }
         },
+        "item_8LY3xr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-06-29_003057.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<h5>des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes</h5>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
         "item_AqePjm": {
           "type": "item",
           "settings": {
@@ -233,9 +233,9 @@
         }
       },
       "block_order": [
-        "item_8LY3xr",
         "item_aye3h6",
         "item_yh37ea",
+        "item_8LY3xr",
         "item_AqePjm"
       ],
       "name": "Multi-column",
