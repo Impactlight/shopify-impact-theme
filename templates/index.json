@@ -528,22 +528,22 @@
         "item_PifcqR": {
           "type": "item",
           "settings": {
-            "title": "Do you ship overseas?",
-            "content": "<p>Yes, we ship all over the world. Shipping costs will apply, and will be added at checkout. We run discounts and promotions all year, so stay tuned for exclusive deals.</p>"
+            "title": "Comment fonctionne la carte de suivi Spotminders ?",
+            "content": "<p>La carte de suivi Localizme utilise le réseau Localiser d'Apple pour suivre facilement votre portefeuille et vos autres objets essentiels ou proches. Il vous suffit de l'intégrer à votre appareil iOS grâce à l'application Localiser pour localiser facilement vos affaires et vos proches. </p>"
           }
         },
         "item_CHWDW3": {
           "type": "item",
           "settings": {
-            "title": "How long will it take to get my orders?",
-            "content": "<p>It depends on where you are. Orders processed here will take 5-7 business days to arrive. Overseas deliveries can take anywhere from 7-16 days. Delivery details will be provided in your confirmation email.</p>"
+            "title": "Quelle est la finesse de la carte ?",
+            "content": "<p>La carte de suivi Localizme est ultra-fine, avec seulement 2.5mm d'épaisseur. Elle se glisse facilement dans votre portefeuille sans ajouter de volume ni gêne.</p>"
           }
         },
         "item_8DHkxg": {
           "type": "item",
           "settings": {
-            "title": "Any question?",
-            "content": "<p>You can contact us through our contact page! We will be happy to assist you.</p>"
+            "title": "La carte nécessite-t-elle d'être rechargée ?",
+            "content": "<p><strong>La carte Localizme se recharge sans fil — tout simplement.</strong><br/><br/>Posez-la sur n’importe quel socle de charge sans fil : la LED s’illumine indiquant la recharge en cours.<br/><br/>💡 <strong>Une seule charge = jusqu’à 5 mois de tranquillité.</strong><br/><br/>Grâce à son témoin lumineux intelligent, vous savez quand elle est prête.<br/><br/>Réutilisable à l’infini, <strong>zéro pile, zéro gaspillage</strong> : un choix plus économique, plus durable, plus malin.<br/><br/></p>"
           }
         }
       },
