@@ -573,6 +573,13 @@
             "title": "Comment contacter le service client ?",
             "content": "<p>Pour toute question ou assistance concernant les produits Localizme, y compris la carte de suivi, veuillez contacter notre service client par e-mail à l'adresse support@localizme.com ou via le formulaire de contact de notre site web. Nous sommes là pour vous aider !</p>"
           }
+        },
+        "item_3WahAf": {
+          "type": "item",
+          "settings": {
+            "title": "Garantie 2 ans",
+            "content": "<p>Notre carte de suivi est résistante aux rayures, imperméable et conçue pour durer toute une vie. En cas d'incident, nous la remplacerons par une nouvelle ou la rembourserons intégralement.<br/><br/>Pour demander un remplacement ou un remboursement, veuillez contacter notre service clientèle à l'adresse support@localizme.com.</p>"
+          }
         }
       },
       "block_order": [
@@ -582,7 +589,8 @@
         "item_V7GNGF",
         "item_MHRw6e",
         "item_Rmhqi4",
-        "item_V8VcDF"
+        "item_V8VcDF",
+        "item_3WahAf"
       ],
       "name": "FAQ",
       "settings": {
@@ -591,8 +599,8 @@
         "title": "FAQ",
         "content": "",
         "team_avatar_width": 160,
-        "support_hours": "Our customer support is available Monday to Friday: 8am-8:30pm.",
-        "answer_time": "Average answer time: 24h",
+        "support_hours": "",
+        "answer_time": "Temps de réponse moyen : 12 à 24h",
         "button_text": "",
         "button_url": "",
         "text_position": "center",
