@@ -169,7 +169,7 @@
       "name": "Rich text",
       "settings": {
         "full_width": true,
-        "content_width": "small",
+        "content_width": "medium",
         "text_position": "center",
         "background": "",
         "background_gradient": "",
@@ -237,6 +237,136 @@
         "item_aye3h6",
         "item_yh37ea",
         "item_AqePjm"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_Bw9fbL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yKUNm8": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos clients en parlent le mieux",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yKUNm8"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_UndwFa": {
+      "type": "multi-column",
+      "blocks": {
+        "item_Pw8HwE": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/vpTbTO3ud.jpg",
+            "column_size": "3",
+            "title": "Sophie M.",
+            "heading_tag": "h4",
+            "content": "<p>Pendant mes vacances, j'ai (bêtement) laissé mon sac à main sur le dossier d'une chaise dans un café à l'autre bout de la ville. Argent de voyage/PASSPORT!!!!/Documents de voyage/Souvenirs/Cartes de crédit !!! TELLEMENT STUPIDE !!!!  J'ai appelé frénétiquement le magasin pour voir si une personne honnête l'avait rendu, mais j'en doutais. Le magasin a dit que rien n'avait été rendu, mais le tracker a dit qu'il était toujours là. Cela m'a permis de garder la tête froide pendant que je traversais la ville à toute allure pour espérer le retrouver.  J'avais mis le traceur et il indiquait que le sac était toujours là, une lueur d'espoir. Lorsque je suis arrivé au magasin et que j'ai interrogé le jeune au comptoir, il m'a dit que rien n'avait été rapporté. Mais le TRACKER indiquait que le sac se trouvait à proximité. Le vendeur a répété qu'il n'était pas là, mais lorsque j'ai montré les informations de suivi sur mon téléphone indiquant EXACTEMENT l'endroit où nous nous trouvions, il a fait un peu PLUS d'efforts et a demandé au personnel de l'arrière-boutique. C'est quoi ce bruit de carillon ??? Et puis, il était là, sur le bureau du directeur. Si je n'avais pas eu le traceur, j'aurais simplement accepté la parole des enfants qu'il n'était pas là. J'aurais supposé que quelqu'un l'avait volé et qu'il n'aurait jamais été retrouvé. Non seulement le traceur m'a permis de rester calme, mais je n'aurais jamais retrouvé le sac s'il n'y était pas. Le sac a été retrouvé avec tout son contenu intact. Meilleur investissement - Cela en vaut la peine !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mGz7gB": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Ne_perdez_plus_jamais_ce_qui_compte_1.png",
+            "column_size": "3",
+            "title": "Melissa B.",
+            "heading_tag": "h4",
+            "content": "<p>Jusqu'ici, tout va bien. J'en ai mis une dans le portefeuille de mon mari, avec sa permission bien sûr, et une dans son camion au cas où il se perdrait. Merci pour cet excellent produit. Il ne me reste plus qu'à me rappeler de les recharger tous les cinq mois environ.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_kNnTJK": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/LwMCBdtxR.jpg",
+            "column_size": "3",
+            "title": "David C.",
+            "heading_tag": "h4",
+            "content": "<p>J'égarais (et remplaçais) sans cesse mon Kindle.   Ce n'est plus le cas grâce à Localizme!</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_DGdEU8": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/0uLG0rhWJ_mid.jpg",
+            "column_size": "3",
+            "title": "Patrick S.",
+            "heading_tag": "h4",
+            "content": "<p>Ideal to be taken all the time with you, with your other cards. Never without it.<br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3YfeGx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/zO92rZBcjZ.jpg",
+            "column_size": "3",
+            "title": "Sara A.",
+            "heading_tag": "h4",
+            "content": "<p>Ma chere fille encore !<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_pLRHyq": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/rYz-g32RXw_mid.jpg",
+            "column_size": "3",
+            "title": "Jacques D.",
+            "heading_tag": "h4",
+            "content": "<p>Facile à installer et fonctionne comme annoncé.<br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_Pw8HwE",
+        "item_mGz7gB",
+        "item_kNnTJK",
+        "item_DGdEU8",
+        "item_3YfeGx",
+        "item_pLRHyq"
       ],
       "name": "Multi-column",
       "settings": {
@@ -831,6 +961,8 @@
     "image_with_text_overlay_ktBcxz",
     "rich_text_cGyEJL",
     "multi_column_9k9Hy3",
+    "rich_text_Bw9fbL",
+    "multi_column_UndwFa",
     "media-grid",
     "before-after-image",
     "press",
