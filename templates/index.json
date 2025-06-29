@@ -230,7 +230,7 @@
         "background": "",
         "background_gradient": "",
         "heading_text_color": "",
-        "heading_gradient": "linear-gradient(180deg, rgba(26, 26, 26, 0.2), rgba(26, 26, 26, 0) 100%)",
+        "heading_gradient": "linear-gradient(87deg, rgba(61, 61, 63, 0.79) 69%, rgba(26, 26, 26, 0) 100%)",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
@@ -298,6 +298,7 @@
         "item_8LY3xr",
         "item_AqePjm"
       ],
+      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
@@ -706,6 +707,27 @@
         "accordion_text_color": ""
       }
     },
+    "contact_QnjHPV": {
+      "type": "contact",
+      "name": "Contact form",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "Avez-vous des questions?",
+        "content": "<p>Ecrivez-vous</p>",
+        "text_position": "center",
+        "contact_form_size": "large",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "contact_background": "",
+        "contact_text_color": "",
+        "button_background": "#f83a3a",
+        "button_text_color": ""
+      }
+    },
     "hot-spots": {
       "type": "hot-spots",
       "blocks": {
@@ -751,6 +773,7 @@
         "1664424434f5b7d0e0-1",
         "1664424434f5b7d0e0-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "title": "",
@@ -832,7 +855,7 @@
         "16644246508f6fa13a-2": {
           "type": "values",
           "settings": {
-            "product": "",
+            "product": "localizme-carte-de-suivi",
             "value_1": "<p>No</p>",
             "value_2": "<p>Yes</p>",
             "value_3": "<p>Yes</p>",
@@ -863,6 +886,7 @@
         "16644246508f6fa13a-1",
         "16644246508f6fa13a-2"
       ],
+      "disabled": true,
       "settings": {
         "full_width": true,
         "subheading": "Compare",
@@ -888,27 +912,6 @@
         "chart_text_color": "",
         "chart_true_false_color": ""
       }
-    },
-    "contact_QnjHPV": {
-      "type": "contact",
-      "name": "Contact form",
-      "settings": {
-        "full_width": true,
-        "subheading": "Contact Us",
-        "title": "Do you have any question?",
-        "content": "",
-        "text_position": "start",
-        "contact_form_size": "large",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "contact_background": "",
-        "contact_text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
     }
   },
   "order": [
@@ -924,8 +927,8 @@
     "featured_product_qPJEyK",
     "press",
     "faq_XTBPNU",
+    "contact_QnjHPV",
     "hot-spots",
-    "feature-chart",
-    "contact_QnjHPV"
+    "feature-chart"
   ]
 }
