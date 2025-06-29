@@ -142,7 +142,6 @@
         "enable_parallax": false,
         "image_size": "auto",
         "image": "shopify://shop_images/section_benefice.png",
-        "mobile_image": "shopify://shop_images/section_benefice_3.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -449,6 +448,34 @@
         "pickup_availability_yf4fcc": {
           "type": "pickup_availability",
           "settings": {}
+        },
+        "collapsible_text_mqwj98": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Détails et taille",
+            "content": "<p>Conçue en France, la carte de suivi Localizme. s'intègre parfaitement à l’app Apple Localiser.<br/><br/><strong>SPÉCIFICATIONS :</strong><br/><strong>Dimensions : </strong>54x85.7x2.5 mm<br/><strong>Durée de vie de la batterie :</strong> 10 ans (300 recharges). Rechargeable - dure jusqu'à 5 mois par charge.<br/><strong>Poids du produit : </strong>15 g<br/><strong>Batterie : </strong>170mAh (non remplaçable, rechargeable sans fil)<br/><strong>Distance :</strong> Distance illimitée<br/><strong>Étanchéité : </strong>IP65<br/><strong>Connectivité :</strong> Fonctionne avec l'application Apple Localiser - localisez facilement votre portefeuille, valise, voiture, cartable de votre enfant../<br/><strong>Alerte sonore : </strong>émet un son lorsqu'il se trouve à proximité pour le localiser instantanément (Plus de 75 dB à 10 cm de distance).<br/><strong>Sécurité des données :</strong> Aucun historique de localisation n'est stocké - protection totale de la vie privée<br/><br/><strong>QUE CONTIENT LA BOÎTE ?</strong><br/><br/>Carte de suivi Localizme.<br/>Guide de démarrage rapide (Manuel de l'utilisateur)<br/>Instructions sur la façon de se connecter à Apple Localiser. </p>"
+          }
+        },
+        "collapsible_text_3zd4qh": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Certification Apple MFI",
+            "content": "<p>En tant que partenaire Apple MFI officiellement certifié, Localizme répond aux normes de qualité rigoureuses d'Apple, garantissant :<br/><br/>Une connexion instantanée au réseau Find My d'Apple sans applications tierces<br/>Une compatibilité parfaite avec tous vos appareils Apple<br/>Des fonctions de sécurité améliorées exclusives aux appareils approuvés par Apple<br/>Une performance continue avec chaque mise à jour iOS<br/>Cette certification garantit une intégration transparente au sein de l'écosystème Apple, vous offrant une technologie de suivi fiable soutenue à la fois par Localizme et Apple.</p>"
+          }
+        },
+        "collapsible_text_AXYaUQ": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Y a-t-il des frais mensuels ?",
+            "content": "<p>Pas de frais mensuels ni d'abonnement ! Vous payez une fois pour la carte de suivi Localizme et vous profitez de toutes les fonctions de suivi sans frais supplémentaires.</p>"
+          }
+        },
+        "collapsible_text_UjHFPL": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Garantie 2 ans",
+            "content": "<p>Notre carte de suivi est résistante aux rayures, imperméable et conçue pour durer toute une vie. En cas d'incident, nous la remplacerons par une nouvelle ou la rembourserons intégralement.<br/><br/>Pour demander un remplacement ou un remboursement, veuillez contacter notre service clientèle à l'adresse support@localizme.com.</p>"
+          }
         }
       },
       "block_order": [
@@ -462,7 +489,11 @@
         "variant_picker_3VmLhc",
         "quantity_selector_9CBk9q",
         "buy_buttons_LDyiKA",
-        "pickup_availability_yf4fcc"
+        "pickup_availability_yf4fcc",
+        "collapsible_text_mqwj98",
+        "collapsible_text_3zd4qh",
+        "collapsible_text_AXYaUQ",
+        "collapsible_text_UjHFPL"
       ],
       "name": "Featured product",
       "settings": {
