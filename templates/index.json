@@ -473,6 +473,13 @@
         "collapsible_text_UjHFPL": {
           "type": "collapsible_text",
           "settings": {
+            "title": "Expédition et retours",
+            "content": "<p><strong>LIVRAISON GRATUITE </strong><br/><br/>Pas de frais supplémentaires ! Les droits et taxes sont déjà inclus dans le prix total.<br/><br/><strong>EXPÉDITION DANS LE MONDE ENTIER</strong><br/>Veuillez tenir compte des délais d'expédition suivants :<br/>Délai de traitement : 1 jour<br/>Expédition express : (4-8 jours ouvrables)<br/><br/><strong>POLITIQUE DE RETOUR DE 60 JOURS</strong><br/>Nous garantissons la qualité de nos produits et offrons une politique de retour de 60 jours pour toutes les commandes, même si le produit a été utilisé. Pour effectuer un retour, veuillez contacter notre service client à l'adresse <br/>support@localizme.com.</p>"
+          }
+        },
+        "collapsible_text_87agEy": {
+          "type": "collapsible_text",
+          "settings": {
             "title": "Garantie 2 ans",
             "content": "<p>Notre carte de suivi est résistante aux rayures, imperméable et conçue pour durer toute une vie. En cas d'incident, nous la remplacerons par une nouvelle ou la rembourserons intégralement.<br/><br/>Pour demander un remplacement ou un remboursement, veuillez contacter notre service clientèle à l'adresse support@localizme.com.</p>"
           }
@@ -493,14 +500,15 @@
         "collapsible_text_mqwj98",
         "collapsible_text_3zd4qh",
         "collapsible_text_AXYaUQ",
-        "collapsible_text_UjHFPL"
+        "collapsible_text_UjHFPL",
+        "collapsible_text_87agEy"
       ],
       "name": "Featured product",
       "settings": {
         "full_width": true,
         "product": "localizme-carte-de-suivi",
         "desktop_media_width": 55,
-        "desktop_media_layout": "carousel_thumbnails_left",
+        "desktop_media_layout": "grid_highlight",
         "mobile_media_size": "expanded",
         "mobile_carousel_control": "floating_dots",
         "enable_video_autoplay": true,
