@@ -40,14 +40,6 @@
     "logo_list_EQNnRY": {
       "type": "logo-list",
       "blocks": {
-        "logo_UNfeqT": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
         "logo_erXnqf": {
           "type": "logo",
           "settings": {
@@ -56,10 +48,10 @@
             "link": ""
           }
         },
-        "logo_MQHCPB": {
+        "logo_UNfeqT": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/bfm-tv-logo.png",
+            "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
             "logo_width": 300,
             "link": ""
           }
@@ -71,13 +63,21 @@
             "logo_width": 300,
             "link": ""
           }
+        },
+        "logo_MQHCPB": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/bfm-tv-logo.png",
+            "logo_width": 300,
+            "link": ""
+          }
         }
       },
       "block_order": [
-        "logo_UNfeqT",
         "logo_erXnqf",
-        "logo_MQHCPB",
-        "logo_mcAmPw"
+        "logo_UNfeqT",
+        "logo_mcAmPw",
+        "logo_MQHCPB"
       ],
       "name": "Logo list",
       "settings": {
