@@ -229,8 +229,8 @@
         "impact_text_size_ratio": 1,
         "background": "",
         "background_gradient": "",
-        "heading_text_color": "",
-        "heading_gradient": "linear-gradient(87deg, rgba(61, 61, 63, 0.79) 69%, rgba(26, 26, 26, 0) 100%)",
+        "heading_text_color": "#38b6ff",
+        "heading_gradient": "",
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
