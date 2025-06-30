@@ -137,7 +137,7 @@
       ],
       "name": "Image with text overlay",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
@@ -446,6 +446,12 @@
     "featured_product_qPJEyK": {
       "type": "featured-product",
       "blocks": {
+        "liquid_kh67wY": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<style>\n  .trustpilot-score {\n    text-align: left; /* Align the content to the left */\n    margin-top: 10px; /* Add some space above the score */\n  }\n\n  .trustpilot-score p {\n    display: inline; /* Display the text inline */\n    vertical-align: middle; /* Align the content vertically */\n    margin: 0; /* Remove any default margins */\n    font-weight: bold; /* Increase font weight */\n  }\n\n  .trustpilot-score img {\n    max-width: 100px; /* Set maximum width to 100px */\n    height: auto; /* Maintain aspect ratio */\n    margin-left: 10px; /* Add some space between the images */\n    vertical-align: middle; /* Align the images vertically */\n  }\n</style>\n\n<div class=\"trustpilot-score\">\n  <p>Excellent</p>\n  <img src=\"Insert shopify image A link here\">\n  <img src=\"Insert shopify image B link here\">\n</div>"
+          }
+        },
         "vendor_HLhkyz": {
           "type": "vendor",
           "settings": {}
@@ -485,7 +491,7 @@
         "image_AeVEgJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Offre_Speciale_1.png",
+            "image": "shopify://shop_images/Offre_Speciale_e3a74d40-4585-4762-8abe-469cebf6b29e.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -556,6 +562,7 @@
         }
       },
       "block_order": [
+        "liquid_kh67wY",
         "vendor_HLhkyz",
         "title_G3LG3R",
         "badges_nTHYfz",
