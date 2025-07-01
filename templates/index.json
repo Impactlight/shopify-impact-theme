@@ -492,17 +492,9 @@
             "max_width": 500
           }
         },
-        "liquid_azdWRQ": {
-          "type": "liquid",
-          "settings": {
-            "liquid": "<div class=\"adoric-manual-quantity-breaks\" data-adoric-id=\"68644f78c64d57f4ce9cb6fc\"></div>"
-          }
-        },
-        "adoric_bundles_bundle_mark_six_VYJxjn": {
-          "type": "shopify://apps/adoric-bundles/blocks/bundle-mark-six/e20b8847-d680-41d1-b500-b783d925492a",
-          "settings": {
-            "bundle_id": "68644f78c64d57f4ce9cb6fc"
-          }
+        "payment_terms_qDqm6X": {
+          "type": "payment_terms",
+          "settings": {}
         },
         "variant_picker_3VmLhc": {
           "type": "variant_picker",
@@ -580,8 +572,7 @@
         "separator_i8tV4q",
         "description_4efjyL",
         "image_AeVEgJ",
-        "liquid_azdWRQ",
-        "adoric_bundles_bundle_mark_six_VYJxjn",
+        "payment_terms_qDqm6X",
         "variant_picker_3VmLhc",
         "liquid_KHbtiG",
         "buy_buttons_LDyiKA",
