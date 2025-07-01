@@ -17,36 +17,36 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "2 achetees = 1 offerte",
+            "text": "🎁 2 achetées = 1 offerte   ",
             "url": ""
           }
         },
-        "message_bVBGGT": {
+        "message_w7kzki": {
           "type": "message",
           "settings": {
-            "text": "Paiement securise",
+            "text": "  🔐 Paiement sécurisé  ",
             "url": ""
           }
         },
-        "message_XPiKG6": {
+        "message_JJWytq": {
           "type": "message",
           "settings": {
-            "text": "Livraison gratuite",
+            "text": "🚚 Livraison gratuite",
             "url": ""
           }
         }
       },
       "block_order": [
         "message",
-        "message_bVBGGT",
-        "message_XPiKG6"
+        "message_w7kzki",
+        "message_JJWytq"
       ],
       "settings": {
         "enable_sticky": false,
         "text_size": "text-base",
         "navigation_mode": "scrolling",
         "scrolling_speed": 10,
-        "background": "#1a1a1a",
+        "background": "#38b6ff",
         "background_gradient": "",
         "text_color": "#ffffff"
       }
