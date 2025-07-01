@@ -492,6 +492,12 @@
             "max_width": 500
           }
         },
+        "adoric_bundles_bundle_mark_five_jykBVr": {
+          "type": "shopify://apps/adoric-bundles/blocks/bundle-mark-five/e20b8847-d680-41d1-b500-b783d925492a",
+          "settings": {
+            "bundle_id": "68644f78c64d57f4ce9cb6fc"
+          }
+        },
         "variant_picker_3VmLhc": {
           "type": "variant_picker",
           "settings": {
@@ -572,6 +578,7 @@
         "separator_i8tV4q",
         "description_4efjyL",
         "image_AeVEgJ",
+        "adoric_bundles_bundle_mark_five_jykBVr",
         "variant_picker_3VmLhc",
         "quantity_selector_9CBk9q",
         "liquid_KHbtiG",
