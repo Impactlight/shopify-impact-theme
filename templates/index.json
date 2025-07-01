@@ -462,12 +462,6 @@
           "type": "badges",
           "settings": {}
         },
-        "price_AerzhC": {
-          "type": "price",
-          "settings": {
-            "show_taxes_notice": false
-          }
-        },
         "rating_6pttnP": {
           "type": "rating",
           "settings": {
@@ -567,7 +561,6 @@
         "liquid_kh67wY",
         "title_G3LG3R",
         "badges_nTHYfz",
-        "price_AerzhC",
         "rating_6pttnP",
         "separator_i8tV4q",
         "description_4efjyL",
