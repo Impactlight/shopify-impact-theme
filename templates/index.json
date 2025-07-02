@@ -592,6 +592,7 @@
     },
     "custom_liquid_cEjEtq": {
       "type": "custom-liquid",
+      "disabled": true,
       "name": "Custom Liquid",
       "settings": {
         "full_width": true,
@@ -655,10 +656,10 @@
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "start",
-        "subheading": "",
-        "title": "",
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "Installez-le en moins de 45 secondes",
+        "title": "La plupart des clients se connectent et commencent le suivi en moins d'une minute. Voici comment :",
         "content": "",
         "background": "",
         "background_gradient": "",
