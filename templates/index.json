@@ -609,6 +609,7 @@
         "item_btticA": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/how-gif1.webp",
             "column_size": "3",
             "title": "1️⃣ Se connecter à Apple Localiser",
             "heading_tag": "h4",
@@ -621,10 +622,11 @@
         "item_Wk9DBa": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/how-gif2.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "2️⃣ Rangez-la en toute sécurité",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Glissez-la dans votre portefeuille, sac ou passeport.<br/></strong><br/>Elle est fine, discrète et prête à vous servir quand vous en avez besoin.<br/><br/><strong><br/></strong><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -633,10 +635,11 @@
         "item_8DNa7e": {
           "type": "item",
           "settings": {
+            "image": "shopify://shop_images/how-gif3.webp",
             "column_size": "3",
-            "title": "Column title",
+            "title": "3️⃣ Suivez-la, faites-la sonner, retrouvez-la",
             "heading_tag": "h4",
-            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "content": "<p><strong>Utilisez l’app Localiser pour voir sa position.<br/></strong><br/>Si elle est proche, appuyez sur “Émettre un son” pour la repérer, même dans un sac ou sous un coussin.<br/><br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
