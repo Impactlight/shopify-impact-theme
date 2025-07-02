@@ -613,7 +613,7 @@
             "column_size": "3",
             "title": "1️⃣ Se connecter à Apple Localiser",
             "heading_tag": "h4",
-            "content": "<p><strong>Approchez-la de votre iPhone et touchez une fois.<br/></strong><br/>C’est tout. Pas d’application. Aucune configuration. Votre carte est prête en quelques secondes.<br/><br/></p>",
+            "content": "<p><strong>Approchez-la de votre iPhone et touchez une fois.<br/></strong><br/>C’est tout. Pas d’application. Aucune configuration. Votre carte est prête en quelques secondes.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -626,7 +626,7 @@
             "column_size": "3",
             "title": "2️⃣ Rangez-la en toute sécurité",
             "heading_tag": "h4",
-            "content": "<p><strong>Glissez-la dans votre portefeuille, sac ou passeport.<br/></strong><br/>Elle est fine, discrète et prête à vous servir quand vous en avez besoin.<br/><br/><strong><br/></strong><br/></p>",
+            "content": "<p><strong>Glissez-la dans votre portefeuille, sac ou passeport.<br/></strong><br/>Elle est fine, discrète et prête à vous servir quand vous en avez besoin.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -639,7 +639,7 @@
             "column_size": "3",
             "title": "3️⃣ Suivez-la, faites-la sonner, retrouvez-la",
             "heading_tag": "h4",
-            "content": "<p><strong>Utilisez l’app Localiser pour voir sa position.<br/></strong><br/>Si elle est proche, appuyez sur “Émettre un son” pour la repérer, même dans un sac ou sous un coussin.<br/><br/><br/><br/></p>",
+            "content": "<p><strong>Utilisez l’app Localiser pour voir sa position.<br/></strong><br/>Si elle est proche, appuyez sur “Émettre un son” pour la repérer, même dans un sac ou sous un coussin.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -657,9 +657,9 @@
         "stack_on_mobile": false,
         "gap": "medium",
         "text_alignment": "start",
-        "subheading": "About",
-        "title": "Featured content",
-        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "subheading": "",
+        "title": "",
+        "content": "",
         "background": "",
         "background_gradient": "",
         "text_color": ""
