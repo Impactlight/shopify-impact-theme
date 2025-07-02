@@ -590,6 +590,78 @@
         "input_text_color": ""
       }
     },
+    "custom_liquid_cEjEtq": {
+      "type": "custom-liquid",
+      "name": "Custom Liquid",
+      "settings": {
+        "full_width": true,
+        "remove_vertical_spacing": true,
+        "remove_horizontal_spacing": false,
+        "liquid": "<div style=\"text-align: center; margin-bottom: 30px;\">\n  <a href=\"#connect\" style=\"background-color: #0055FF; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-right: 10px;\">Connecter la carte</a>\n\n  <a href=\"#wallet\" style=\"background-color: #F2F2F2; color: #333; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-right: 10px;\">Ajouter au portefeuille</a>\n\n  <a href=\"#track\" style=\"background-color: #F2F2F2; color: #333; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600;\">Suivre & Sonner</a>\n</div>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "multi_column_aVQBXm": {
+      "type": "multi-column",
+      "blocks": {
+        "item_btticA": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "1️⃣ Se connecter à Apple Localiser",
+            "heading_tag": "h4",
+            "content": "<p><strong>Approchez-la de votre iPhone et touchez une fois.<br/></strong><br/>C’est tout. Pas d’application. Aucune configuration. Votre carte est prête en quelques secondes.<br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_Wk9DBa": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8DNa7e": {
+          "type": "item",
+          "settings": {
+            "column_size": "3",
+            "title": "Column title",
+            "heading_tag": "h4",
+            "content": "<p>Pair text with an image to focus on your chosen product, collection, or blog post. Add details on availability, style, or even provide a review.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_btticA",
+        "item_Wk9DBa",
+        "item_8DNa7e"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "start",
+        "subheading": "About",
+        "title": "Featured content",
+        "content": "<p>Organize content into multiple columns to share useful information to your customers about your products, values...</p>",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "press": {
       "type": "press",
       "blocks": {
@@ -931,6 +1003,8 @@
     "rich_text_Bw9fbL",
     "multi_column_UndwFa",
     "featured_product_qPJEyK",
+    "custom_liquid_cEjEtq",
+    "multi_column_aVQBXm",
     "press",
     "faq_XTBPNU",
     "contact_QnjHPV",
