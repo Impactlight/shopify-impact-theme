@@ -505,7 +505,7 @@
             "icon_width": 24,
             "title": "Stock limité",
             "content": "<p>Il reste 7 articles à ce prix.</p>",
-            "background": "#ffcccc",
+            "background": "#ffeaea",
             "text_color": "#f83a3a"
           }
         },
