@@ -474,6 +474,12 @@
             "collapse_content": false
           }
         },
+        "adoric_bundles_bundle_mark_six_6JUBTX": {
+          "type": "shopify://apps/adoric-bundles/blocks/bundle-mark-six/e20b8847-d680-41d1-b500-b783d925492a",
+          "settings": {
+            "bundle_id": ""
+          }
+        },
         "image_AeVEgJ": {
           "type": "image",
           "settings": {
@@ -572,6 +578,7 @@
         "badges_nTHYfz",
         "rating_6pttnP",
         "description_4efjyL",
+        "adoric_bundles_bundle_mark_six_6JUBTX",
         "image_AeVEgJ",
         "payment_terms_qDqm6X",
         "variant_picker_3VmLhc",
