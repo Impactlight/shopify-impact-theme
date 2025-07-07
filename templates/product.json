@@ -100,6 +100,10 @@
           "settings": {
             "bundle_id": ""
           }
+        },
+        "judge_me_reviews_review_widget_h3C7LN": {
+          "type": "shopify://apps/judge-me-reviews/blocks/review_widget/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+          "settings": {}
         }
       },
       "block_order": [
@@ -117,7 +121,8 @@
         "adoric_bundles_bundle_mark_four_Mtn7f3",
         "adoric_bundles_bundle_mark_six_8734in",
         "adoric_bundles_bundle_mark_four_YY8LT4",
-        "adoric_bundles_bundle_mark_four_HzYwNj"
+        "adoric_bundles_bundle_mark_four_HzYwNj",
+        "judge_me_reviews_review_widget_h3C7LN"
       ],
       "settings": {
         "full_width": true,
