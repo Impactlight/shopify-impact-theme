@@ -44,6 +44,11 @@
         "type": "shopify://apps/adoric-bundles/blocks/bundle-embed/e20b8847-d680-41d1-b500-b783d925492a",
         "disabled": false,
         "settings": {}
+      },
+      "14060646107696862457": {
+        "type": "shopify://apps/judge-me-reviews/blocks/judgeme_core/61ccd3b1-a9f2-4160-9fe9-4fec8413e5d8",
+        "disabled": false,
+        "settings": {}
       }
     }
   },
