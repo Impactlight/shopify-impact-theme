@@ -474,16 +474,16 @@
             "collapse_content": false
           }
         },
-        "adoric_bundles_bundle_mark_five_grkG4a": {
+        "adoric_bundles_bundle_mark_five_naMRjT": {
           "type": "shopify://apps/adoric-bundles/blocks/bundle-mark-five/e20b8847-d680-41d1-b500-b783d925492a",
           "settings": {
-            "bundle_id": "68644f78c64d57f4ce9cb6fc"
+            "bundle_id": "686b0f83c64d57f4cea88168"
           }
         },
-        "adoric_bundles_bundle_y6ghJJ": {
-          "type": "shopify://apps/adoric-bundles/blocks/bundle/e20b8847-d680-41d1-b500-b783d925492a",
+        "liquid_TUnaPa": {
+          "type": "liquid",
           "settings": {
-            "bundle_id": "68644f78c64d57f4ce9cb6fc"
+            "liquid": "<div class=\"adoric-manual-quantity-breaks\" data-adoric-id=\"686b0f83c64d57f4cea88168\"></div>"
           }
         },
         "image_AeVEgJ": {
@@ -493,10 +493,6 @@
             "alignment": "center",
             "max_width": 500
           }
-        },
-        "payment_terms_qDqm6X": {
-          "type": "payment_terms",
-          "settings": {}
         },
         "variant_picker_3VmLhc": {
           "type": "variant_picker",
@@ -584,10 +580,9 @@
         "badges_nTHYfz",
         "rating_6pttnP",
         "description_4efjyL",
-        "adoric_bundles_bundle_mark_five_grkG4a",
-        "adoric_bundles_bundle_y6ghJJ",
+        "adoric_bundles_bundle_mark_five_naMRjT",
+        "liquid_TUnaPa",
         "image_AeVEgJ",
-        "payment_terms_qDqm6X",
         "variant_picker_3VmLhc",
         "offer_jGaXqp",
         "liquid_KHbtiG",
