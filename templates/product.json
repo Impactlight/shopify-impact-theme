@@ -94,6 +94,12 @@
           "settings": {
             "bundle_id": ""
           }
+        },
+        "adoric_bundles_bundle_mark_four_HzYwNj": {
+          "type": "shopify://apps/adoric-bundles/blocks/bundle-mark-four/e20b8847-d680-41d1-b500-b783d925492a",
+          "settings": {
+            "bundle_id": ""
+          }
         }
       },
       "block_order": [
@@ -110,7 +116,8 @@
         "buy_buttons",
         "adoric_bundles_bundle_mark_four_Mtn7f3",
         "adoric_bundles_bundle_mark_six_8734in",
-        "adoric_bundles_bundle_mark_four_YY8LT4"
+        "adoric_bundles_bundle_mark_four_YY8LT4",
+        "adoric_bundles_bundle_mark_four_HzYwNj"
       ],
       "settings": {
         "full_width": true,
