@@ -34,24 +34,24 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 22
       }
     },
     "logo_list_EQNnRY": {
       "type": "logo-list",
       "blocks": {
-        "logo_erXnqf": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Logo_TF1_Group_2020_svg.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
         "logo_UNfeqT": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_erXnqf": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo_TF1_Group_2020_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -74,15 +74,15 @@
         }
       },
       "block_order": [
-        "logo_erXnqf",
         "logo_UNfeqT",
+        "logo_erXnqf",
         "logo_mcAmPw",
         "logo_MQHCPB"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "Vu sur",
         "content": "",
         "text_alignment": "center",
