@@ -196,7 +196,7 @@
         "slide_width": 300,
         "image_crop": "none",
         "aspect_ratio": "9:16",
-        "autoplay": 3,
+        "autoplay": 6,
         "gap": 10,
         "show_arrows": false,
         "text_size": 100,
@@ -338,9 +338,22 @@
           "settings": {
             "image": "shopify://shop_images/vpTbTO3ud.jpg",
             "column_size": "3",
-            "title": "Sophie M. - Cliente vérifiée ✓",
+            "title": "Sophie M. - Cliente vérifiée ✅",
             "heading_tag": "h4",
             "content": "<p>Pendant mes vacances, j'ai (bêtement) laissé mon sac à main sur le dossier d'une chaise dans un café à l'autre bout de la ville. Argent de voyage/PASSPORT!!!!/Documents de voyage/Souvenirs/Cartes de crédit !!! TELLEMENT STUPIDE !!!!  J'ai appelé frénétiquement le magasin pour voir si une personne honnête l'avait rendu, mais j'en doutais. Le magasin a dit que rien n'avait été rendu, mais le tracker a dit qu'il était toujours là. Cela m'a permis de garder la tête froide pendant que je traversais la ville à toute allure pour espérer le retrouver.  J'avais mis le traceur et il indiquait que le sac était toujours là, une lueur d'espoir. Lorsque je suis arrivé au magasin et que j'ai interrogé le jeune au comptoir, il m'a dit que rien n'avait été rapporté. Mais le TRACKER indiquait que le sac se trouvait à proximité. Le vendeur a répété qu'il n'était pas là, mais lorsque j'ai montré les informations de suivi sur mon téléphone indiquant EXACTEMENT l'endroit où nous nous trouvions, il a fait un peu PLUS d'efforts et a demandé au personnel de l'arrière-boutique. C'est quoi ce bruit de carillon ??? Et puis, il était là, sur le bureau du directeur. Si je n'avais pas eu le traceur, j'aurais simplement accepté la parole des enfants qu'il n'était pas là. J'aurais supposé que quelqu'un l'avait volé et qu'il n'aurait jamais été retrouvé. Non seulement le traceur m'a permis de rester calme, mais je n'aurais jamais retrouvé le sac s'il n'y était pas. Le sac a été retrouvé avec tout son contenu intact. Meilleur investissement - Cela en vaut la peine !</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3YfeGx": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video card.mp4",
+            "column_size": "3",
+            "title": "Pierre A. - Client vérifié ✅",
+            "heading_tag": "h4",
+            "content": "<p>Ce tracker est très pratique. Je le garde dans mon portefeuille. Grâce à lui, je n'ai plus peur de le perdre. J'apprécie particulièrement la possibilité d'émettre un son lorsque je le perds, ce qui facilite grandement sa recherche. Il se recharge également sans fil très facilement. L'appairage avec mon téléphone est également très simple.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -351,7 +364,7 @@
           "settings": {
             "image": "shopify://shop_images/Ne_perdez_plus_jamais_ce_qui_compte_1.png",
             "column_size": "3",
-            "title": "Claire P. - Cliente vérifiée ✓",
+            "title": "Claire P. - Cliente vérifiée ✅",
             "heading_tag": "h4",
             "content": "<p>Jusqu'ici, tout va bien. J'en ai mis une dans le portefeuille de mon mari, avec sa permission bien sûr, et une dans son camion au cas où il se perdrait. Merci pour cet excellent produit. Il ne me reste plus qu'à me rappeler de les recharger tous les cinq mois environ.<br/><br/></p>",
             "link_url": "",
@@ -364,7 +377,7 @@
           "settings": {
             "image": "shopify://shop_images/LwMCBdtxR.jpg",
             "column_size": "3",
-            "title": "David C. - Client vérifié ✓",
+            "title": "David C. - Client vérifié ✅",
             "heading_tag": "h4",
             "content": "<p>J'égarais (et remplaçais) sans cesse mon Kindle.   Ce n'est plus le cas grâce à Localizme!</p>",
             "link_url": "",
@@ -377,22 +390,9 @@
           "settings": {
             "image": "shopify://shop_images/0uLG0rhWJ_mid.jpg",
             "column_size": "3",
-            "title": "Patrick S. - Client vérifié ✓",
+            "title": "Patrick S. - Client vérifié ✅",
             "heading_tag": "h4",
-            "content": "<p>Idéal pour être emporté en permanence avec vous, avec vos autres cartes. Jamais sans elle.<br/><br/><br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3YfeGx": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/zO92rZBcjZ.jpg",
-            "column_size": "3",
-            "title": "Sara A. - Cliente vérifiée ✓",
-            "heading_tag": "h4",
-            "content": "<p>Ma chere fille encore !<br/><br/></p>",
+            "content": "<p>Très facile à connecter et très fin, il ne se remarque même pas dans le portefeuille. Je le recommande vivement.<br/><br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -403,7 +403,7 @@
           "settings": {
             "image": "shopify://shop_images/rYz-g32RXw_mid.jpg",
             "column_size": "3",
-            "title": "Jacques D. - Client vérifié ✓",
+            "title": "Jacques D. - Client vérifié ✅",
             "heading_tag": "h4",
             "content": "<p>Facile à installer et fonctionne comme annoncé.<br/><br/><br/></p>",
             "link_url": "",
@@ -414,10 +414,10 @@
       },
       "block_order": [
         "item_Pw8HwE",
+        "item_3YfeGx",
         "item_mGz7gB",
         "item_kNnTJK",
         "item_DGdEU8",
-        "item_3YfeGx",
         "item_pLRHyq"
       ],
       "name": "Multi-column",
