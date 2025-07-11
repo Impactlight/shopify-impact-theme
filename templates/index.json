@@ -149,6 +149,74 @@
         "overlay_opacity": 0
       }
     },
+    "video_carousel_UgAEK8": {
+      "type": "video-carousel",
+      "blocks": {
+        "video_FgELPP": {
+          "type": "video",
+          "settings": {
+            "html5_video": "shopify://files/videos/1_ce4dd4b2-5eb0-41fa-ae65-53af2929e303.mp4",
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_qhKrdE": {
+          "type": "video",
+          "settings": {
+            "html5_video": "shopify://files/videos/2_a04c9146-78bc-43b5-ba15-6bdc00bb5d97.mp4",
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_NMyQfm": {
+          "type": "video",
+          "settings": {
+            "html5_video": "shopify://files/videos/4_ed930e99-662e-40bd-87fe-2c4b6a123eb7.mp4",
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_eXzKHW": {
+          "type": "video",
+          "settings": {
+            "html5_video": "shopify://files/videos/3_603cbd41-4672-4294-8d0c-d3c49943b66a.mp4",
+            "product": "",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_FgELPP",
+        "video_qhKrdE",
+        "video_NMyQfm",
+        "video_eXzKHW"
+      ],
+      "name": "Video carousel",
+      "settings": {
+        "slide_width": 300,
+        "image_crop": "none",
+        "aspect_ratio": "9:16",
+        "autoplay": 3,
+        "gap": 10,
+        "show_arrows": false,
+        "text_size": 100,
+        "text_alignment": "left",
+        "text_color": "#121212",
+        "border_color": "#121212",
+        "background_color": "",
+        "border_radius": 10,
+        "base_width": 100,
+        "max_width": "",
+        "inner_padding": 30,
+        "outer_margin": 0,
+        "custom_css": "",
+        "mobile_custom_css": "",
+        "anchor_id": "",
+        "override_theme_font": false,
+        "heading_font": "serif",
+        "main_font": "sans-serif"
+      }
+    },
     "rich_text_cGyEJL": {
       "type": "rich-text",
       "blocks": {
@@ -234,83 +302,6 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
-      }
-    },
-    "multi_column_9k9Hy3": {
-      "type": "multi-column",
-      "blocks": {
-        "item_aye3h6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/copy_3.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h5>Valises retrouvées grâce à Localizme</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yh37ea": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/copy_4.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h5>Parents rassurés chaque jour</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8LY3xr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-06-29_003057.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h5>des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AqePjm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/copy_5.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h5>Abonnement. 100% satisfaction.</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_aye3h6",
-        "item_yh37ea",
-        "item_8LY3xr",
-        "item_AqePjm"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
       }
     },
     "rich_text_Bw9fbL": {
@@ -1115,9 +1106,9 @@
     "logo_list_EQNnRY",
     "rich_text_HUX8AP",
     "image_with_text_overlay_ktBcxz",
+    "video_carousel_UgAEK8",
     "rich_text_cGyEJL",
     "impact-text",
-    "multi_column_9k9Hy3",
     "rich_text_Bw9fbL",
     "multi_column_UndwFa",
     "featured_product_qPJEyK",
