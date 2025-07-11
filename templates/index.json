@@ -208,7 +208,7 @@
         "base_width": 100,
         "max_width": "",
         "inner_padding": 30,
-        "outer_margin": 0,
+        "outer_margin": 30,
         "custom_css": "",
         "mobile_custom_css": "",
         "anchor_id": "",
