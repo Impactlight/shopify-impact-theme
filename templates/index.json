@@ -465,11 +465,11 @@
         "item_3YfeGx": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/zO92rZBcjZ.jpg",
+            "video": "shopify://files/videos/video card.mp4",
             "column_size": "3",
-            "title": "Sara A. - Cliente vérifiée ✓",
+            "title": "Sam A. - Client vérifié ✅",
             "heading_tag": "h4",
-            "content": "<p>Ma chere fille encore !<br/><br/></p>",
+            "content": "<p>J'ai toujours peur de perdre mon portefeuille. J'avais déjà utilisé avec succès une étiquette d'une autre marque sur mes clés, mais elle devait avoir sa propre application. Le fait qu'elle fonctionne avec mon application « Localiser » est donc génial. Aucune application spécifique n'est nécessaire, les instructions sont disponibles en plusieurs langues et tout s'est fait en quelques clics. La recharge sans fil est également une fonctionnalité intéressante : je peux la poser sur mon tapis de chargement sans fil et le tour est joué.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
