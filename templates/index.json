@@ -417,7 +417,20 @@
             "column_size": "3",
             "title": "Sophie M. - Cliente vérifiée ✅",
             "heading_tag": "h4",
-            "content": "<p>En vacances, j’ai bêtement oublié mon sac (avec passeport, argent, souvenirs…) dans un café.</p><p>Le magasin disait ne rien avoir trouvé, mais mon traceur indiquait qu’il était toujours là.</p><p>Cette info m’a permis de rester (relativement) calme en fonçant de l’autre bout de la ville.</p><p>Sur place, le vendeur nie encore… jusqu’à ce que je montre le tracker : sac détecté ici même.</p><p>Il vérifie à l’arrière… bruit de carillon… mon sac était posé sur le bureau du directeur !</p><p>Tout était intact.</p><p>Sans le traceur, je serais repartie les mains vides. Meilleur achat de ma vie.</p>",
+            "content": "<p>En vacances, j’ai bêtement oublié mon sac (avec passeport, argent, souvenirs…) dans un café. Le magasin disait ne rien avoir trouvé, mais mon traceur indiquait qu’il était toujours là. Cette info m’a permis de rester (relativement) calme en fonçant de l’autre bout de la ville.<br/>Sur place, le vendeur nie encore… jusqu’à ce que je montre le tracker : sac détecté ici même.<br/>Il vérifie à l’arrière… bruit de carillon… mon sac était posé sur le bureau du directeur !</p><p>Tout était intact.</p><p>Sans le traceur, je serais repartie les mains vides. Meilleur achat de ma vie.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3YfeGx": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/video card.mp4",
+            "column_size": "3",
+            "title": "Sam A. - Client vérifié ✅",
+            "heading_tag": "h4",
+            "content": "<p>J'ai toujours peur de perdre mon portefeuille. J'avais déjà utilisé avec succès une étiquette d'une autre marque sur mes clés, mais elle devait avoir sa propre application. Le fait qu'elle fonctionne avec mon application « Localiser » est donc génial. Aucune application spécifique n'est nécessaire, les instructions sont disponibles en plusieurs langues et tout s'est fait en quelques clics. La recharge sans fil est également une fonctionnalité intéressante : je peux la poser sur mon tapis de chargement sans fil et le tour est joué.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -462,19 +475,6 @@
             "link_style": "link"
           }
         },
-        "item_3YfeGx": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video card.mp4",
-            "column_size": "3",
-            "title": "Sam A. - Client vérifié ✅",
-            "heading_tag": "h4",
-            "content": "<p>J'ai toujours peur de perdre mon portefeuille. J'avais déjà utilisé avec succès une étiquette d'une autre marque sur mes clés, mais elle devait avoir sa propre application. Le fait qu'elle fonctionne avec mon application « Localiser » est donc génial. Aucune application spécifique n'est nécessaire, les instructions sont disponibles en plusieurs langues et tout s'est fait en quelques clics. La recharge sans fil est également une fonctionnalité intéressante : je peux la poser sur mon tapis de chargement sans fil et le tour est joué.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_pLRHyq": {
           "type": "item",
           "settings": {
@@ -491,10 +491,10 @@
       },
       "block_order": [
         "item_Pw8HwE",
+        "item_3YfeGx",
         "item_mGz7gB",
         "item_kNnTJK",
         "item_DGdEU8",
-        "item_3YfeGx",
         "item_pLRHyq"
       ],
       "name": "Multi-column",
