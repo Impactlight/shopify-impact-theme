@@ -141,7 +141,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/section_benefice_1_bb4273c9-0757-4294-8fac-9c11998f55d9.png",
+        "image": "shopify://shop_images/section_benefice_5.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
