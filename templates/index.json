@@ -34,24 +34,24 @@
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 22
+        "overlay_opacity": 30
       }
     },
     "logo_list_EQNnRY": {
       "type": "logo-list",
       "blocks": {
-        "logo_UNfeqT": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
         "logo_erXnqf": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/Logo_TF1_Group_2020_svg.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_UNfeqT": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
             "logo_width": 300,
             "link": ""
           }
@@ -74,15 +74,15 @@
         }
       },
       "block_order": [
-        "logo_UNfeqT",
         "logo_erXnqf",
+        "logo_UNfeqT",
         "logo_mcAmPw",
         "logo_MQHCPB"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": false,
+        "stack_mobile": true,
         "title": "Vu sur",
         "content": "",
         "text_alignment": "center",
@@ -137,84 +137,16 @@
       ],
       "name": "Image with text overlay",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/section_benefice_5.png",
+        "image": "shopify://shop_images/section_benefice_1_bb4273c9-0757-4294-8fac-9c11998f55d9.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#ffffff",
         "overlay_opacity": 0
-      }
-    },
-    "video_carousel_UgAEK8": {
-      "type": "video-carousel",
-      "blocks": {
-        "video_FgELPP": {
-          "type": "video",
-          "settings": {
-            "html5_video": "shopify://files/videos/1_ce4dd4b2-5eb0-41fa-ae65-53af2929e303.mp4",
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_qhKrdE": {
-          "type": "video",
-          "settings": {
-            "html5_video": "shopify://files/videos/2_a04c9146-78bc-43b5-ba15-6bdc00bb5d97.mp4",
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_NMyQfm": {
-          "type": "video",
-          "settings": {
-            "html5_video": "shopify://files/videos/4_ed930e99-662e-40bd-87fe-2c4b6a123eb7.mp4",
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_eXzKHW": {
-          "type": "video",
-          "settings": {
-            "html5_video": "shopify://files/videos/3_603cbd41-4672-4294-8d0c-d3c49943b66a.mp4",
-            "product": "",
-            "collection": ""
-          }
-        }
-      },
-      "block_order": [
-        "video_FgELPP",
-        "video_qhKrdE",
-        "video_NMyQfm",
-        "video_eXzKHW"
-      ],
-      "name": "Video carousel",
-      "settings": {
-        "slide_width": 300,
-        "image_crop": "none",
-        "aspect_ratio": "9:16",
-        "autoplay": 6,
-        "gap": 10,
-        "show_arrows": false,
-        "text_size": 100,
-        "text_alignment": "left",
-        "text_color": "#121212",
-        "border_color": "#121212",
-        "background_color": "",
-        "border_radius": 10,
-        "base_width": 100,
-        "max_width": "",
-        "inner_padding": 30,
-        "outer_margin": 30,
-        "custom_css": "",
-        "mobile_custom_css": "",
-        "anchor_id": "",
-        "override_theme_font": false,
-        "heading_font": "serif",
-        "main_font": "sans-serif"
       }
     },
     "rich_text_cGyEJL": {
@@ -304,6 +236,83 @@
         "button_text_color": ""
       }
     },
+    "multi_column_9k9Hy3": {
+      "type": "multi-column",
+      "blocks": {
+        "item_aye3h6": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/copy_3.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<h5>Valises retrouvées grâce à Localizme</h5>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_yh37ea": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/copy_4.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<h5>Parents rassurés chaque jour</h5>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_8LY3xr": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Screenshot_2025-06-29_003057.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<h5>des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes</h5>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_AqePjm": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/copy_5.png",
+            "column_size": "4",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "<h5>Abonnement. 100% satisfaction.</h5>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_aye3h6",
+        "item_yh37ea",
+        "item_8LY3xr",
+        "item_AqePjm"
+      ],
+      "disabled": true,
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": false,
+        "gap": "medium",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "rich_text_Bw9fbL": {
       "type": "rich-text",
       "blocks": {
@@ -338,22 +347,9 @@
           "settings": {
             "image": "shopify://shop_images/vpTbTO3ud.jpg",
             "column_size": "3",
-            "title": "Sophie M. - Cliente vérifiée ✅",
+            "title": "Sophie M. - Cliente vérifiée ✓",
             "heading_tag": "h4",
-            "content": "<p>Pendant mes vacances, j'ai (bêtement) oublié mon sac à main sur une chaise dans un café à l'autre bout de la ville — passeport, argent, souvenirs, cartes de crédit… TOUT !!! Panique totale. J’ai appelé le café en espérant qu’une bonne âme l’ait rendu, mais ils m’ont dit que non. Heureusement, mon traceur indiquait qu’il était toujours là. Cette petite lueur d’espoir m’a aidée à garder mon calme pendant ma course folle à travers la ville.</p><p>Arrivée sur place, le vendeur m’assure encore qu’on n’a rien trouvé… mais le tracker disait le contraire. Je lui montre l’écran avec l'emplacement exact — il finit par aller  voir à l’arrière… bruit de carillon… le sac était sur le bureau du directeur ! Tout était intact.<br/><br/>Non seulement le traceur m'a permis de rester calme, mais je n'aurais jamais retrouvé le sac s'il n'y était pas. Le sac a été retrouvé avec tout son contenu intact. Meilleur investissement - Cela en vaut la peine !<br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_3YfeGx": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/video card.mp4",
-            "column_size": "3",
-            "title": "Pierre A. - Client vérifié ✅",
-            "heading_tag": "h4",
-            "content": "<p>Ce tracker est très pratique. Je le garde dans mon portefeuille. Grâce à lui, je n'ai plus peur de le perdre. J'apprécie particulièrement la possibilité d'émettre un son lorsque je le perds, ce qui facilite grandement sa recherche. Il se recharge également sans fil très facilement. L'appairage avec mon téléphone est également très simple.<br/><br/></p>",
+            "content": "<p>Pendant mes vacances, j'ai (bêtement) laissé mon sac à main sur le dossier d'une chaise dans un café à l'autre bout de la ville. Argent de voyage/PASSPORT!!!!/Documents de voyage/Souvenirs/Cartes de crédit !!! TELLEMENT STUPIDE !!!!  J'ai appelé frénétiquement le magasin pour voir si une personne honnête l'avait rendu, mais j'en doutais. Le magasin a dit que rien n'avait été rendu, mais le tracker a dit qu'il était toujours là. Cela m'a permis de garder la tête froide pendant que je traversais la ville à toute allure pour espérer le retrouver.  J'avais mis le traceur et il indiquait que le sac était toujours là, une lueur d'espoir. Lorsque je suis arrivé au magasin et que j'ai interrogé le jeune au comptoir, il m'a dit que rien n'avait été rapporté. Mais le TRACKER indiquait que le sac se trouvait à proximité. Le vendeur a répété qu'il n'était pas là, mais lorsque j'ai montré les informations de suivi sur mon téléphone indiquant EXACTEMENT l'endroit où nous nous trouvions, il a fait un peu PLUS d'efforts et a demandé au personnel de l'arrière-boutique. C'est quoi ce bruit de carillon ??? Et puis, il était là, sur le bureau du directeur. Si je n'avais pas eu le traceur, j'aurais simplement accepté la parole des enfants qu'il n'était pas là. J'aurais supposé que quelqu'un l'avait volé et qu'il n'aurait jamais été retrouvé. Non seulement le traceur m'a permis de rester calme, mais je n'aurais jamais retrouvé le sac s'il n'y était pas. Le sac a été retrouvé avec tout son contenu intact. Meilleur investissement - Cela en vaut la peine !</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -364,7 +360,7 @@
           "settings": {
             "image": "shopify://shop_images/Ne_perdez_plus_jamais_ce_qui_compte_1.png",
             "column_size": "3",
-            "title": "Claire P. - Cliente vérifiée ✅",
+            "title": "Claire P. - Cliente vérifiée ✓",
             "heading_tag": "h4",
             "content": "<p>Jusqu'ici, tout va bien. J'en ai mis une dans le portefeuille de mon mari, avec sa permission bien sûr, et une dans son camion au cas où il se perdrait. Merci pour cet excellent produit. Il ne me reste plus qu'à me rappeler de les recharger tous les cinq mois environ.<br/><br/></p>",
             "link_url": "",
@@ -377,7 +373,7 @@
           "settings": {
             "image": "shopify://shop_images/LwMCBdtxR.jpg",
             "column_size": "3",
-            "title": "David C. - Client vérifié ✅",
+            "title": "David C. - Client vérifié ✓",
             "heading_tag": "h4",
             "content": "<p>J'égarais (et remplaçais) sans cesse mon Kindle.   Ce n'est plus le cas grâce à Localizme!</p>",
             "link_url": "",
@@ -390,9 +386,22 @@
           "settings": {
             "image": "shopify://shop_images/0uLG0rhWJ_mid.jpg",
             "column_size": "3",
-            "title": "Patrick S. - Client vérifié ✅",
+            "title": "Patrick S. - Client vérifié ✓",
             "heading_tag": "h4",
-            "content": "<p>Très facile à connecter et très fin, il ne se remarque même pas dans le portefeuille. Je le recommande vivement.<br/><br/><br/></p>",
+            "content": "<p>Idéal pour être emporté en permanence avec vous, avec vos autres cartes. Jamais sans elle.<br/><br/><br/><br/></p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_3YfeGx": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/zO92rZBcjZ.jpg",
+            "column_size": "3",
+            "title": "Sara A. - Cliente vérifiée ✓",
+            "heading_tag": "h4",
+            "content": "<p>Ma chere fille encore !<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -403,7 +412,7 @@
           "settings": {
             "image": "shopify://shop_images/rYz-g32RXw_mid.jpg",
             "column_size": "3",
-            "title": "Jacques D. - Client vérifié ✅",
+            "title": "Jacques D. - Client vérifié ✓",
             "heading_tag": "h4",
             "content": "<p>Facile à installer et fonctionne comme annoncé.<br/><br/><br/></p>",
             "link_url": "",
@@ -414,10 +423,10 @@
       },
       "block_order": [
         "item_Pw8HwE",
-        "item_3YfeGx",
         "item_mGz7gB",
         "item_kNnTJK",
         "item_DGdEU8",
+        "item_3YfeGx",
         "item_pLRHyq"
       ],
       "name": "Multi-column",
@@ -468,7 +477,7 @@
         "image_AeVEgJ": {
           "type": "image",
           "settings": {
-            "image": "shopify://shop_images/Offre_Speciale_e3a74d40-4585-4762-8abe-469cebf6b29e.png",
+            "image": "shopify://shop_images/Offre_Speciale_1_0a4efbe0-6f03-4ffc-9ebb-24d38ea2b0f5.png",
             "alignment": "center",
             "max_width": 500
           }
@@ -1106,9 +1115,9 @@
     "logo_list_EQNnRY",
     "rich_text_HUX8AP",
     "image_with_text_overlay_ktBcxz",
-    "video_carousel_UgAEK8",
     "rich_text_cGyEJL",
     "impact-text",
+    "multi_column_9k9Hy3",
     "rich_text_Bw9fbL",
     "multi_column_UndwFa",
     "featured_product_qPJEyK",
