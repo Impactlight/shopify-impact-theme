@@ -40,18 +40,18 @@
     "logo_list_EQNnRY": {
       "type": "logo-list",
       "blocks": {
-        "logo_erXnqf": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/Logo_TF1_Group_2020_svg.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
         "logo_UNfeqT": {
           "type": "logo",
           "settings": {
             "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
+        "logo_erXnqf": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/Logo_TF1_Group_2020_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -74,15 +74,15 @@
         }
       },
       "block_order": [
-        "logo_erXnqf",
         "logo_UNfeqT",
+        "logo_erXnqf",
         "logo_mcAmPw",
         "logo_MQHCPB"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": true,
+        "stack_mobile": false,
         "title": "Vu sur",
         "content": "",
         "text_alignment": "center",
@@ -137,16 +137,84 @@
       ],
       "name": "Image with text overlay",
       "settings": {
-        "full_width": true,
+        "full_width": false,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/section_benefice_1_bb4273c9-0757-4294-8fac-9c11998f55d9.png",
+        "image": "shopify://shop_images/section_benefice_5.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#ffffff",
         "overlay_opacity": 0
+      }
+    },
+    "video_carousel_yfjk63": {
+      "type": "video-carousel",
+      "blocks": {
+        "video_89QaUP": {
+          "type": "video",
+          "settings": {
+            "html5_video": "shopify://files/videos/1_ce4dd4b2-5eb0-41fa-ae65-53af2929e303.mp4",
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_XQyVkc": {
+          "type": "video",
+          "settings": {
+            "html5_video": "shopify://files/videos/4_ed930e99-662e-40bd-87fe-2c4b6a123eb7.mp4",
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_FLEjL3": {
+          "type": "video",
+          "settings": {
+            "html5_video": "shopify://files/videos/2_a04c9146-78bc-43b5-ba15-6bdc00bb5d97.mp4",
+            "product": "",
+            "collection": ""
+          }
+        },
+        "video_LMLcV4": {
+          "type": "video",
+          "settings": {
+            "html5_video": "shopify://files/videos/3_603cbd41-4672-4294-8d0c-d3c49943b66a.mp4",
+            "product": "",
+            "collection": ""
+          }
+        }
+      },
+      "block_order": [
+        "video_89QaUP",
+        "video_XQyVkc",
+        "video_FLEjL3",
+        "video_LMLcV4"
+      ],
+      "name": "Video carousel",
+      "settings": {
+        "slide_width": 300,
+        "image_crop": "none",
+        "aspect_ratio": "9:16",
+        "autoplay": 6,
+        "gap": 10,
+        "show_arrows": false,
+        "text_size": 100,
+        "text_alignment": "left",
+        "text_color": "#121212",
+        "border_color": "#121212",
+        "background_color": "",
+        "border_radius": 10,
+        "base_width": 100,
+        "max_width": "",
+        "inner_padding": 40,
+        "outer_margin": 0,
+        "custom_css": "",
+        "mobile_custom_css": "",
+        "anchor_id": "",
+        "override_theme_font": false,
+        "heading_font": "serif",
+        "main_font": "sans-serif"
       }
     },
     "rich_text_cGyEJL": {
@@ -1115,6 +1183,7 @@
     "logo_list_EQNnRY",
     "rich_text_HUX8AP",
     "image_with_text_overlay_ktBcxz",
+    "video_carousel_yfjk63",
     "rich_text_cGyEJL",
     "impact-text",
     "multi_column_9k9Hy3",
