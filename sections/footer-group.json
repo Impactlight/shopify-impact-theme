@@ -78,8 +78,8 @@
         "stack_on_mobile": false,
         "title": "",
         "heading_tag": "h4",
-        "text_alignment": "start",
-        "icon_spacing": "small",
+        "text_alignment": "center",
+        "icon_spacing": "medium",
         "background": "",
         "background_gradient": "",
         "text_color": ""
