@@ -14,32 +14,6 @@
     "text-with-icons": {
       "type": "text-with-icons",
       "blocks": {
-        "free-shipping": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-box",
-            "mobile_icon_width": 24,
-            "icon_width": 40,
-            "icon_background_type": "none",
-            "icon_background": "#f83a3a",
-            "icon_color": "",
-            "title": "Livraison gratuite",
-            "content": ""
-          }
-        },
-        "customer-support": {
-          "type": "item",
-          "settings": {
-            "icon": "picto-customer-support",
-            "mobile_icon_width": 24,
-            "icon_width": 40,
-            "icon_background_type": "none",
-            "icon_background": "",
-            "icon_color": "",
-            "title": "Service client 7j/7",
-            "content": ""
-          }
-        },
         "discount": {
           "type": "item",
           "settings": {
@@ -50,6 +24,19 @@
             "icon_background": "",
             "icon_color": "",
             "title": "Satisfait ou remboursé",
+            "content": ""
+          }
+        },
+        "free-shipping": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-box",
+            "mobile_icon_width": 24,
+            "icon_width": 40,
+            "icon_background_type": "none",
+            "icon_background": "#f83a3a",
+            "icon_color": "",
+            "title": "Livraison gratuite",
             "content": ""
           }
         },
@@ -65,20 +52,33 @@
             "title": "Paiement sécurisé",
             "content": ""
           }
+        },
+        "customer-support": {
+          "type": "item",
+          "settings": {
+            "icon": "picto-customer-support",
+            "mobile_icon_width": 24,
+            "icon_width": 40,
+            "icon_background_type": "none",
+            "icon_background": "",
+            "icon_color": "",
+            "title": "Service client 7j/7",
+            "content": ""
+          }
         }
       },
       "block_order": [
-        "free-shipping",
-        "customer-support",
         "discount",
-        "payment"
+        "free-shipping",
+        "payment",
+        "customer-support"
       ],
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "title": "",
         "heading_tag": "h4",
-        "text_alignment": "center",
+        "text_alignment": "start",
         "icon_spacing": "small",
         "background": "",
         "background_gradient": "",
@@ -98,8 +98,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "About",
-            "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>",
+            "title": "Service client",
+            "content": "<p><strong>Email</strong>:<br/>contact@localizme.com</p><p><strong>Horaires</strong>:<strong> </strong>Du Lun au Ven de 9h à 12h et de 13h à 18h / Sam et Dim de 10h à 12h</p>",
             "enable_follow_on_shop": true
           }
         }
@@ -109,7 +109,7 @@
         "text"
       ],
       "settings": {
-        "show_social_media": true,
+        "show_social_media": false,
         "show_payment_icons": true,
         "show_country_selector": true,
         "show_country_flag": true,
