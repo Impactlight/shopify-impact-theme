@@ -149,6 +149,32 @@
         "overlay_opacity": 0
       }
     },
+    "rich_text_cGyEJL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_XYJci7": {
+          "type": "heading",
+          "settings": {
+            "text": "Déjà des centaines de situations résolues.",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_XYJci7"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
     "video_carousel_yfjk63": {
       "type": "video-carousel",
       "blocks": {
@@ -217,32 +243,6 @@
         "main_font": "sans-serif"
       }
     },
-    "rich_text_cGyEJL": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_XYJci7": {
-          "type": "heading",
-          "settings": {
-            "text": "Déjà des centaines de situations résolues.",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_XYJci7"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "impact-text": {
       "type": "impact-text",
       "blocks": {
@@ -302,6 +302,32 @@
         "text_color": "",
         "button_background": "",
         "button_text_color": ""
+      }
+    },
+    "rich_text_Bw9fbL": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_yKUNm8": {
+          "type": "heading",
+          "settings": {
+            "text": "Nos clients en parlent le mieux",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_yKUNm8"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
       }
     },
     "multi_column_9k9Hy3": {
@@ -376,32 +402,6 @@
         "subheading": "",
         "title": "",
         "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
-    "rich_text_Bw9fbL": {
-      "type": "rich-text",
-      "blocks": {
-        "heading_yKUNm8": {
-          "type": "heading",
-          "settings": {
-            "text": "Nos clients en parlent le mieux",
-            "heading_tag": "h1",
-            "text_color": "",
-            "gradient": ""
-          }
-        }
-      },
-      "block_order": [
-        "heading_yKUNm8"
-      ],
-      "name": "Rich text",
-      "settings": {
-        "full_width": true,
-        "content_width": "medium",
-        "text_position": "center",
         "background": "",
         "background_gradient": "",
         "text_color": ""
@@ -1190,11 +1190,11 @@
     "logo_list_EQNnRY",
     "rich_text_HUX8AP",
     "image_with_text_overlay_ktBcxz",
-    "video_carousel_yfjk63",
     "rich_text_cGyEJL",
+    "video_carousel_yfjk63",
     "impact-text",
-    "multi_column_9k9Hy3",
     "rich_text_Bw9fbL",
+    "multi_column_9k9Hy3",
     "multi_column_UndwFa",
     "featured_product_qPJEyK",
     "custom_liquid_cEjEtq",
