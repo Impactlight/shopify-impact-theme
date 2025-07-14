@@ -88,6 +88,16 @@
     "footer": {
       "type": "footer",
       "blocks": {
+        "newsletter_YBQPr3": {
+          "type": "newsletter",
+          "settings": {
+            "image": "shopify://shop_images/LOCALIZME.png",
+            "image_width": 300,
+            "heading_size": "h3",
+            "title": "Inscrivez-vous à notre newsletter",
+            "content": ""
+          }
+        },
         "links": {
           "type": "links",
           "settings": {
@@ -105,6 +115,7 @@
         }
       },
       "block_order": [
+        "newsletter_YBQPr3",
         "links",
         "text"
       ],
