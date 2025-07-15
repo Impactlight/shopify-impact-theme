@@ -1043,14 +1043,14 @@
         },
         "review_LVcQBX": {
           "type": "review",
+          "name": "Avis 5 ",
           "settings": {
-            "img_block": "shopify://shop_images/vpTbTO3ud.jpg",
             "star_rating": 5,
-            "name_text": "Sophie M. ",
+            "name_text": "Patrick S.",
             "date_text": "Juin 2025",
-            "review_head": "Mon sauveur",
-            "review_text": "En vacances, j’ai bêtement oublié mon sac (avec passeport, argent, souvenirs…) dans un café. Le magasin disait ne rien avoir trouvé, mais mon traceur indiquait qu’il était toujours là. Cette info m’a permis de rester (relativement) calme en fonçant de l’autre bout de la ville.Sur place, le vendeur nie encore… jusqu’à ce que je montre le tracker : sac détecté ici même.Il vérifie à l’arrière… bruit de carillon… mon sac était posé sur le bureau du directeur !Tout était intact.Sans le traceur, je serais repartie les mains vides. Meilleur achat de ma vie.",
-            "like_size": 20,
+            "review_head": "Une securité en plus!",
+            "review_text": "Idéal pour être emporté en permanence avec vous, avec vos autres cartes. Jamais sans elle.",
+            "like_size": 3,
             "dislike_size": 0,
             "feature_font_size": 16
           }
