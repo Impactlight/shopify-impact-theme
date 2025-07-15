@@ -885,99 +885,6 @@
         "logo_item_border": ""
       }
     },
-    "faq_XTBPNU": {
-      "type": "faq",
-      "blocks": {
-        "item_PifcqR": {
-          "type": "item",
-          "settings": {
-            "title": "Comment fonctionne la carte de suivi Spotminders ?",
-            "content": "<p>La carte de suivi Localizme utilise le réseau Localiser d'Apple pour suivre facilement votre portefeuille et vos autres objets essentiels ou proches. Il vous suffit de l'intégrer à votre appareil iOS grâce à l'application Localiser pour localiser facilement vos affaires et vos proches. </p>"
-          }
-        },
-        "item_CHWDW3": {
-          "type": "item",
-          "settings": {
-            "title": "Quelle est la finesse de la carte ?",
-            "content": "<p>La carte de suivi Localizme est ultra-fine, avec seulement 2.5mm d'épaisseur. Elle se glisse facilement dans votre portefeuille sans ajouter de volume ni gêne.</p>"
-          }
-        },
-        "item_8DHkxg": {
-          "type": "item",
-          "settings": {
-            "title": "La carte nécessite-t-elle d'être rechargée ?",
-            "content": "<p><strong>La carte Localizme se recharge sans fil — tout simplement.</strong><br/><br/>Posez-la sur n’importe quel socle de charge sans fil : la LED s’illumine indiquant la recharge en cours.<br/><br/>💡 <strong>Une seule charge = jusqu’à 5 mois de tranquillité.</strong><br/><br/>Grâce à son témoin lumineux intelligent, vous savez quand elle est prête.<br/><br/>Réutilisable à l’infini, <strong>zéro pile, zéro gaspillage</strong> : un choix plus économique, plus durable, plus malin.<br/><br/></p>"
-          }
-        },
-        "item_V7GNGF": {
-          "type": "item",
-          "settings": {
-            "title": "La carte est-elle compatible avec les appareils non Apple ?",
-            "content": "<p>Actuellement, la carte de suivi Localizme est optimisée pour une utilisation uniquement avec les appareils Apple et l'application Localiser. Cependant, nous étudions constamment les possibilités d'étendre la compatibilité avec d'autres plateformes.</p>"
-          }
-        },
-        "item_MHRw6e": {
-          "type": "item",
-          "settings": {
-            "title": "Puis-je suivre plusieurs articles avec la carte de suivi ?",
-            "content": "<p>Oui, la carte de suivi Localizme ne se limite pas à votre portefeuille. Elle vous permet de suivre divers articles, tels que bagages, sacs, téléphones, passeports, etc., offrant ainsi une solution de suivi complète pour vos objets du quotidien.</p>"
-          }
-        },
-        "item_Rmhqi4": {
-          "type": "item",
-          "settings": {
-            "title": "Est-elle étanche ?",
-            "content": "<p><strong>Conçue pour durer, même sous la pluie.</strong><br/><br/>La carte Localizme est certifiée <strong>IP65</strong> : résistante à l’eau, à la poussière et aux éclaboussures du quotidien.<br/><br/>💧 Glissée dans un sac, un portefeuille ou une valise, elle reste parfaitement fonctionnelle — même sous une averse.</p><p><strong>Utilisez-la en toute confiance, par tous les temps.</strong></p>"
-          }
-        },
-        "item_V8VcDF": {
-          "type": "item",
-          "settings": {
-            "title": "Comment contacter le service client ?",
-            "content": "<p>Pour toute question ou assistance concernant les produits Localizme, y compris la carte de suivi, veuillez contacter notre service client par e-mail à l'adresse support@localizme.com ou via le formulaire de contact de notre site web. Nous sommes là pour vous aider !</p>"
-          }
-        },
-        "item_3WahAf": {
-          "type": "item",
-          "settings": {
-            "title": "Garantie 2 ans",
-            "content": "<p>Notre carte de suivi est résistante aux rayures, imperméable et conçue pour durer toute une vie. En cas d'incident, nous la remplacerons par une nouvelle ou la rembourserons intégralement.<br/><br/>Pour demander un remplacement ou un remboursement, veuillez contacter notre service clientèle à l'adresse support@localizme.com.</p>"
-          }
-        }
-      },
-      "block_order": [
-        "item_PifcqR",
-        "item_CHWDW3",
-        "item_8DHkxg",
-        "item_V7GNGF",
-        "item_MHRw6e",
-        "item_Rmhqi4",
-        "item_V8VcDF",
-        "item_3WahAf"
-      ],
-      "name": "FAQ",
-      "settings": {
-        "full_width": true,
-        "subheading": "",
-        "title": "FAQ",
-        "content": "",
-        "team_avatar_width": 160,
-        "support_hours": "",
-        "answer_time": "",
-        "button_text": "",
-        "button_url": "",
-        "text_position": "center",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "button_background": "",
-        "button_text_color": "",
-        "accordion_background": "",
-        "accordion_text_color": ""
-      }
-    },
     "lumin_review_hANwfT": {
       "type": "lumin-review",
       "blocks": {
@@ -1183,6 +1090,99 @@
         "rw_margin": 0,
         "padding_top": 36,
         "padding_bottom": 36
+      }
+    },
+    "faq_XTBPNU": {
+      "type": "faq",
+      "blocks": {
+        "item_PifcqR": {
+          "type": "item",
+          "settings": {
+            "title": "Comment fonctionne la carte de suivi Spotminders ?",
+            "content": "<p>La carte de suivi Localizme utilise le réseau Localiser d'Apple pour suivre facilement votre portefeuille et vos autres objets essentiels ou proches. Il vous suffit de l'intégrer à votre appareil iOS grâce à l'application Localiser pour localiser facilement vos affaires et vos proches. </p>"
+          }
+        },
+        "item_CHWDW3": {
+          "type": "item",
+          "settings": {
+            "title": "Quelle est la finesse de la carte ?",
+            "content": "<p>La carte de suivi Localizme est ultra-fine, avec seulement 2.5mm d'épaisseur. Elle se glisse facilement dans votre portefeuille sans ajouter de volume ni gêne.</p>"
+          }
+        },
+        "item_8DHkxg": {
+          "type": "item",
+          "settings": {
+            "title": "La carte nécessite-t-elle d'être rechargée ?",
+            "content": "<p><strong>La carte Localizme se recharge sans fil — tout simplement.</strong><br/><br/>Posez-la sur n’importe quel socle de charge sans fil : la LED s’illumine indiquant la recharge en cours.<br/><br/>💡 <strong>Une seule charge = jusqu’à 5 mois de tranquillité.</strong><br/><br/>Grâce à son témoin lumineux intelligent, vous savez quand elle est prête.<br/><br/>Réutilisable à l’infini, <strong>zéro pile, zéro gaspillage</strong> : un choix plus économique, plus durable, plus malin.<br/><br/></p>"
+          }
+        },
+        "item_V7GNGF": {
+          "type": "item",
+          "settings": {
+            "title": "La carte est-elle compatible avec les appareils non Apple ?",
+            "content": "<p>Actuellement, la carte de suivi Localizme est optimisée pour une utilisation uniquement avec les appareils Apple et l'application Localiser. Cependant, nous étudions constamment les possibilités d'étendre la compatibilité avec d'autres plateformes.</p>"
+          }
+        },
+        "item_MHRw6e": {
+          "type": "item",
+          "settings": {
+            "title": "Puis-je suivre plusieurs articles avec la carte de suivi ?",
+            "content": "<p>Oui, la carte de suivi Localizme ne se limite pas à votre portefeuille. Elle vous permet de suivre divers articles, tels que bagages, sacs, téléphones, passeports, etc., offrant ainsi une solution de suivi complète pour vos objets du quotidien.</p>"
+          }
+        },
+        "item_Rmhqi4": {
+          "type": "item",
+          "settings": {
+            "title": "Est-elle étanche ?",
+            "content": "<p><strong>Conçue pour durer, même sous la pluie.</strong><br/><br/>La carte Localizme est certifiée <strong>IP65</strong> : résistante à l’eau, à la poussière et aux éclaboussures du quotidien.<br/><br/>💧 Glissée dans un sac, un portefeuille ou une valise, elle reste parfaitement fonctionnelle — même sous une averse.</p><p><strong>Utilisez-la en toute confiance, par tous les temps.</strong></p>"
+          }
+        },
+        "item_V8VcDF": {
+          "type": "item",
+          "settings": {
+            "title": "Comment contacter le service client ?",
+            "content": "<p>Pour toute question ou assistance concernant les produits Localizme, y compris la carte de suivi, veuillez contacter notre service client par e-mail à l'adresse support@localizme.com ou via le formulaire de contact de notre site web. Nous sommes là pour vous aider !</p>"
+          }
+        },
+        "item_3WahAf": {
+          "type": "item",
+          "settings": {
+            "title": "Garantie 2 ans",
+            "content": "<p>Notre carte de suivi est résistante aux rayures, imperméable et conçue pour durer toute une vie. En cas d'incident, nous la remplacerons par une nouvelle ou la rembourserons intégralement.<br/><br/>Pour demander un remplacement ou un remboursement, veuillez contacter notre service clientèle à l'adresse support@localizme.com.</p>"
+          }
+        }
+      },
+      "block_order": [
+        "item_PifcqR",
+        "item_CHWDW3",
+        "item_8DHkxg",
+        "item_V7GNGF",
+        "item_MHRw6e",
+        "item_Rmhqi4",
+        "item_V8VcDF",
+        "item_3WahAf"
+      ],
+      "name": "FAQ",
+      "settings": {
+        "full_width": true,
+        "subheading": "",
+        "title": "FAQ",
+        "content": "",
+        "team_avatar_width": 160,
+        "support_hours": "",
+        "answer_time": "",
+        "button_text": "",
+        "button_url": "",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "button_background": "",
+        "button_text_color": "",
+        "accordion_background": "",
+        "accordion_text_color": ""
       }
     },
     "contact_QnjHPV": {
@@ -1408,8 +1408,8 @@
     "multi_column_aVQBXm",
     "multi_column_jepBLc",
     "press",
-    "faq_XTBPNU",
     "lumin_review_hANwfT",
+    "faq_XTBPNU",
     "contact_QnjHPV",
     "hot-spots",
     "feature-chart"
