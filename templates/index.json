@@ -983,6 +983,7 @@
       "blocks": {
         "review_VkRQVA": {
           "type": "review",
+          "name": "Avis 1",
           "settings": {
             "img_block": "shopify://shop_images/vpTbTO3ud.jpg",
             "star_rating": 5,
@@ -997,6 +998,7 @@
         },
         "review_nRtc3T": {
           "type": "review",
+          "name": "Avis 2",
           "settings": {
             "img_block": "shopify://shop_images/0uLG0rhWJ_mid.jpg",
             "star_rating": 5,
@@ -1011,6 +1013,7 @@
         },
         "review_4jNLLe": {
           "type": "review",
+          "name": "Avis 3",
           "settings": {
             "img_block": "shopify://shop_images/Ne_perdez_plus_jamais_ce_qui_compte_1.png",
             "star_rating": 5,
@@ -1025,14 +1028,15 @@
         },
         "review_wxwVpg": {
           "type": "review",
+          "name": "Avis 4",
           "settings": {
-            "img_block": "shopify://shop_images/vpTbTO3ud.jpg",
+            "img_block": "shopify://shop_images/LwMCBdtxR.jpg",
             "star_rating": 5,
-            "name_text": "Sophie M. ",
+            "name_text": "David C. ",
             "date_text": "Juin 2025",
-            "review_head": "Mon sauveur",
-            "review_text": "En vacances, j’ai bêtement oublié mon sac (avec passeport, argent, souvenirs…) dans un café. Le magasin disait ne rien avoir trouvé, mais mon traceur indiquait qu’il était toujours là. Cette info m’a permis de rester (relativement) calme en fonçant de l’autre bout de la ville.Sur place, le vendeur nie encore… jusqu’à ce que je montre le tracker : sac détecté ici même.Il vérifie à l’arrière… bruit de carillon… mon sac était posé sur le bureau du directeur !Tout était intact.Sans le traceur, je serais repartie les mains vides. Meilleur achat de ma vie.",
-            "like_size": 20,
+            "review_head": "Kindle + ipad",
+            "review_text": "J'égarais (et remplaçais) sans cesse mon Kindle. Ce n'est plus le cas grâce à Localizme!",
+            "like_size": 5,
             "dislike_size": 0,
             "feature_font_size": 16
           }
