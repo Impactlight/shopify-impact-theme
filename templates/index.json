@@ -1077,11 +1077,11 @@
         "show_border": true,
         "rw_border": "#f2f2f2",
         "border_radius": 19,
-        "section_bg3": "#000",
+        "section_bg3": "#000000",
         "section_bg2": "#38b6ff",
         "verify_text": "Client vérifié",
-        "review_bg": "#fff",
-        "feature_acc_color": "#000",
+        "review_bg": "#ffffff",
+        "feature_acc_color": "#000000",
         "review_pd": 20,
         "review_pd_m": 20,
         "show_footer": true,
@@ -1098,7 +1098,7 @@
         "item_PifcqR": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne la carte de suivi Spotminders ?",
+            "title": "Comment fonctionne la carte de suivi Localizme?",
             "content": "<p>La carte de suivi Localizme utilise le réseau Localiser d'Apple pour suivre facilement votre portefeuille et vos autres objets essentiels ou proches. Il vous suffit de l'intégrer à votre appareil iOS grâce à l'application Localiser pour localiser facilement vos affaires et vos proches. </p>"
           }
         },
