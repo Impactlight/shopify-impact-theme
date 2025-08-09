@@ -207,75 +207,14 @@
         "overlay_opacity": 0
       }
     },
-    "impact-text": {
-      "type": "impact-text",
-      "blocks": {
-        "1664424181b38582d5-0": {
-          "type": "item",
-          "settings": {
-            "title": "+300",
-            "subheading": "Valises retrouvées grâce à Localizme",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_9kntxd": {
-          "type": "item",
-          "settings": {
-            "title": "+1200",
-            "subheading": "Parents rassurés chaque jour",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
-          }
-        },
-        "item_fc8eUr": {
-          "type": "item",
-          "settings": {
-            "title": "92%",
-            "subheading": "des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes",
-            "content": "",
-            "button_text": "",
-            "button_url": "",
-            "animate_impact_text": true,
-            "animate_impact_text_duration": 2
-          }
-        }
-      },
-      "block_order": [
-        "1664424181b38582d5-0",
-        "item_9kntxd",
-        "item_fc8eUr"
-      ],
-      "settings": {
-        "full_width": true,
-        "stack_mobile": true,
-        "text_alignment": "center",
-        "impact_text_style": "fill",
-        "text_divider": "none",
-        "impact_text_size_ratio": 0.8,
-        "background": "",
-        "background_gradient": "",
-        "heading_text_color": "#38b6ff",
-        "heading_gradient": "",
-        "text_color": "",
-        "button_background": "",
-        "button_text_color": ""
-      }
-    },
     "rich_text_Bw9fbL": {
       "type": "rich-text",
       "blocks": {
         "heading_yKUNm8": {
           "type": "heading",
           "settings": {
-            "text": "Nos clients en parlent le mieux",
-            "heading_tag": "h1",
+            "text": "Don't take our word for it. Hear what our customers say",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -377,11 +316,11 @@
         "item_Pw8HwE": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/vpTbTO3ud.jpg",
+            "video": "shopify://files/videos/b7b62aa2977048bd9d1f8cc472d3a52d.mp4",
             "column_size": "3",
-            "title": "Sophie M. - Cliente vérifiée ✅",
+            "title": "Steve C. - Verified customer ✅",
             "heading_tag": "h4",
-            "content": "<p>En vacances, j’ai bêtement oublié mon sac (avec passeport, argent, souvenirs…) dans un café. Le magasin disait ne rien avoir trouvé, mais mon traceur indiquait qu’il était toujours là. Cette info m’a permis de rester (relativement) calme en fonçant de l’autre bout de la ville.<br/>Sur place, le vendeur nie encore… jusqu’à ce que je montre le tracker : sac détecté ici même.<br/>Il vérifie à l’arrière… bruit de carillon… mon sac était posé sur le bureau du directeur !</p><p>Tout était intact.</p><p>Sans le traceur, je serais repartie les mains vides. Meilleur achat de ma vie.</p>",
+            "content": "<p>Best investment! The image is super stable on the bike and the quality is top 👍 I have the live videos connected to my phone so I can post on social networks easily. Action Pro is TOP!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -390,11 +329,11 @@
         "item_3YfeGx": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/video card.mp4",
+            "video": "shopify://files/videos/5b9039a798af45358b89fac6223c21d9.mov",
             "column_size": "3",
-            "title": "Sam A. - Client vérifié ✅",
+            "title": "Julie B. - Verified customer ✅",
             "heading_tag": "h4",
-            "content": "<p>J'ai toujours peur de perdre mon portefeuille. J'avais déjà utilisé avec succès une étiquette d'une autre marque sur mes clés, mais elle devait avoir sa propre application. Le fait qu'elle fonctionne avec mon application « Localiser » est donc génial. Aucune application spécifique n'est nécessaire, les instructions sont disponibles en plusieurs langues et tout s'est fait en quelques clics. La recharge sans fil est également une fonctionnalité intéressante : je peux la poser sur mon tapis de chargement sans fil et le tour est joué.</p>",
+            "content": "<p>Beautiful! Honestly, it's even better than the GoPro! The image quality is sharper, the angles are perfect, and it's super easy to use</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -403,11 +342,11 @@
         "item_mGz7gB": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/Ne_perdez_plus_jamais_ce_qui_compte_1.png",
+            "video": "shopify://files/videos/a89ec2dd88954bd5b4f4fafe61d558b1.mp4",
             "column_size": "3",
-            "title": "Claire P. - Cliente vérifiée ✅",
+            "title": "Jake P. - Verified customer ✅",
             "heading_tag": "h4",
-            "content": "<p>Jusqu'ici, tout va bien. J'en ai mis une dans le portefeuille de mon mari, avec sa permission bien sûr, et une dans son camion au cas où il se perdrait. Merci pour cet excellent produit. Il ne me reste plus qu'à me rappeler de les recharger tous les cinq mois environ.<br/><br/></p>",
+            "content": "<p>Absolutely boss! The night vision’s proper impressive – you can see every last thing clear as day, even in the dark. With ACTIONPRO, my drives are miles better and safer now – I’ve binned off using me phone to film altogether.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -416,11 +355,11 @@
         "item_kNnTJK": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/LwMCBdtxR.jpg",
+            "video": "shopify://files/videos/44119ee6585b4589a0a438547d229a0a.mp4",
             "column_size": "3",
-            "title": "David C. - Client vérifié ✅",
+            "title": "David C. - Verified customer✅",
             "heading_tag": "h4",
-            "content": "<p>J'égarais (et remplaçais) sans cesse mon Kindle.   Ce n'est plus le cas grâce à Localizme!</p>",
+            "content": "<p>I’d recommend it a hundred percent – you won’t regret it! I film my football matches and it honestly feels like you’re right there on the pitch. The quality and the viewing angle are unreal, every bit of the action’s captured like you’re part of the game. I’ve never been able to film like this with any other camera without it getting in the way.</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -431,22 +370,9 @@
           "settings": {
             "image": "shopify://shop_images/0uLG0rhWJ_mid.jpg",
             "column_size": "3",
-            "title": "Patrick S. - Client vérifié ✅",
+            "title": "Mike S. - Verified customer ✅",
             "heading_tag": "h4",
-            "content": "<p>Idéal pour être emporté en permanence avec vous, avec vos autres cartes. Jamais sans elle.<br/><br/><br/><br/></p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_pLRHyq": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/rYz-g32RXw_mid.jpg",
-            "column_size": "3",
-            "title": "Jacques D. - Client vérifié ✅",
-            "heading_tag": "h4",
-            "content": "<p>Facile à installer et fonctionne comme annoncé.<br/><br/><br/></p>",
+            "content": "<p>The quality’s spot on – you can see every movement with incredible precision. It’s so discreet you completely forget it’s even there.<br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -458,8 +384,7 @@
         "item_3YfeGx",
         "item_mGz7gB",
         "item_kNnTJK",
-        "item_DGdEU8",
-        "item_pLRHyq"
+        "item_DGdEU8"
       ],
       "name": "Multi-column",
       "settings": {
@@ -1363,7 +1288,6 @@
     "image_with_text_overlay_ktBcxz",
     "rich_text_cGyEJL",
     "video_pn8YyR",
-    "impact-text",
     "rich_text_Bw9fbL",
     "multi_column_9k9Hy3",
     "multi_column_UndwFa",
