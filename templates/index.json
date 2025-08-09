@@ -11,18 +11,6 @@
   "sections": {
     "image-with-text-overlay": {
       "type": "image-with-text-overlay",
-      "blocks": {
-        "1664424230c4756b0e-1": {
-          "type": "heading",
-          "settings": {
-            "text": "",
-            "heading_tag": "h1"
-          }
-        }
-      },
-      "block_order": [
-        "1664424230c4756b0e-1"
-      ],
       "settings": {
         "full_width": true,
         "allow_transparent_header": false,
