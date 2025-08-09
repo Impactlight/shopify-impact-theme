@@ -15,7 +15,7 @@
         "1664424230c4756b0e-1": {
           "type": "heading",
           "settings": {
-            "text": "Ne perdez plus jamais ce qui compte.",
+            "text": "",
             "heading_tag": "h1"
           }
         }
@@ -28,13 +28,13 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/Untitled_design.png",
-        "mobile_image": "shopify://shop_images/mobile_localizme.png",
+        "image": "shopify://shop_images/You_are_the_hero_6.png",
+        "mobile_image": "shopify://shop_images/You_are_the_hero_6.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
         "overlay_color": "#000000",
-        "overlay_opacity": 30
+        "overlay_opacity": 0
       }
     },
     "logo_list_EQNnRY": {
