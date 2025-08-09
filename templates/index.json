@@ -40,10 +40,18 @@
     "logo_list_EQNnRY": {
       "type": "logo-list",
       "blocks": {
+        "logo_MQHCPB": {
+          "type": "logo",
+          "settings": {
+            "logo": "shopify://shop_images/images_4.png",
+            "logo_width": 300,
+            "link": ""
+          }
+        },
         "logo_UNfeqT": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
+            "logo": "shopify://shop_images/CBS_logo_svg.png",
             "logo_width": 300,
             "link": ""
           }
@@ -51,7 +59,7 @@
         "logo_erXnqf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/Logo_TF1_Group_2020_svg.png",
+            "logo": "shopify://shop_images/gq-logo-png-transparent.png",
             "logo_width": 300,
             "link": ""
           }
@@ -59,32 +67,24 @@
         "logo_mcAmPw": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/images.png",
-            "logo_width": 300,
-            "link": ""
-          }
-        },
-        "logo_MQHCPB": {
-          "type": "logo",
-          "settings": {
-            "logo": "shopify://shop_images/bfm-tv-logo.png",
+            "logo": "shopify://shop_images/unnamed.png",
             "logo_width": 300,
             "link": ""
           }
         }
       },
       "block_order": [
+        "logo_MQHCPB",
         "logo_UNfeqT",
         "logo_erXnqf",
-        "logo_mcAmPw",
-        "logo_MQHCPB"
+        "logo_mcAmPw"
       ],
       "name": "Logo list",
       "settings": {
         "full_width": true,
-        "stack_mobile": false,
-        "title": "Vu sur",
-        "content": "",
+        "stack_mobile": true,
+        "title": "",
+        "content": "<h1>Seen on</h1>",
         "text_alignment": "center",
         "items_per_row": 5,
         "background": "",
@@ -102,8 +102,8 @@
         "heading_rg4zmf": {
           "type": "heading",
           "settings": {
-            "text": "Pourquoi Localizme ?",
-            "heading_tag": "h1",
+            "text": "Why Action Pro Is Perfect For You",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -137,11 +137,11 @@
       ],
       "name": "Image with text overlay",
       "settings": {
-        "full_width": false,
+        "full_width": true,
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/section_benefice_5.png",
+        "image": "shopify://shop_images/20250809_2335_Immersive_Camera_Experience_remix_01k28ffqx4fqr83haqvmdhy3e8.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -155,8 +155,8 @@
         "heading_XYJci7": {
           "type": "heading",
           "settings": {
-            "text": "Déjà des centaines de situations résolues.",
-            "heading_tag": "h1",
+            "text": "Stop losing your most beautiful memories… Capture your adventures, your passion, your holidays— all in stunning 4K POV!",
+            "heading_tag": "h2",
             "text_color": "",
             "gradient": ""
           }
@@ -185,37 +185,10 @@
             "product": "",
             "collection": ""
           }
-        },
-        "video_XQyVkc": {
-          "type": "video",
-          "settings": {
-            "html5_video": "shopify://files/videos/4_ed930e99-662e-40bd-87fe-2c4b6a123eb7.mp4",
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_FLEjL3": {
-          "type": "video",
-          "settings": {
-            "html5_video": "shopify://files/videos/2_a04c9146-78bc-43b5-ba15-6bdc00bb5d97.mp4",
-            "product": "",
-            "collection": ""
-          }
-        },
-        "video_LMLcV4": {
-          "type": "video",
-          "settings": {
-            "html5_video": "shopify://files/videos/3_603cbd41-4672-4294-8d0c-d3c49943b66a.mp4",
-            "product": "",
-            "collection": ""
-          }
         }
       },
       "block_order": [
-        "video_89QaUP",
-        "video_XQyVkc",
-        "video_FLEjL3",
-        "video_LMLcV4"
+        "video_89QaUP"
       ],
       "name": "Video carousel",
       "settings": {
