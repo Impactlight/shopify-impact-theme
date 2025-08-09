@@ -17,21 +17,21 @@
         "message": {
           "type": "message",
           "settings": {
-            "text": "🎁 2 achetés = 1 offert",
+            "text": "🎁 FREE GIFT",
             "url": ""
           }
         },
         "message_w7kzki": {
           "type": "message",
           "settings": {
-            "text": "  🔐 Paiement sécurisé  ",
+            "text": "  🔐 Secured paiement",
             "url": ""
           }
         },
         "message_JJWytq": {
           "type": "message",
           "settings": {
-            "text": "🚚 Livraison gratuite",
+            "text": "🚚 Free shipping",
             "url": ""
           }
         }
@@ -48,7 +48,7 @@
         "scrolling_speed": 10,
         "background": "#38b6ff",
         "background_gradient": "",
-        "text_color": "#ffffff"
+        "text_color": "#000000"
       }
     },
     "header": {
@@ -56,15 +56,15 @@
       "settings": {
         "enable_sticky": true,
         "hide_on_scroll": false,
-        "logo": "shopify://shop_images/You_are_the_hero_logo.png",
-        "logo_max_width": 200,
-        "logo_mobile_max_width": 140,
+        "logo": "shopify://shop_images/action_pro_logo.png",
+        "logo_max_width": 195,
+        "logo_mobile_max_width": 95,
         "menu": "main-menu",
         "sidebar_menu": "",
         "secondary_menu": "",
         "menu_open_trigger": "click",
         "opening_from": "bottom",
-        "layout": "logo_center_navigation_inline",
+        "layout": "logo_left_navigation_inline",
         "show_social_media": true,
         "show_locale_selector": true,
         "show_country_selector": true,
