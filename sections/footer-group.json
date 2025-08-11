@@ -91,10 +91,10 @@
         "newsletter_YBQPr3": {
           "type": "newsletter",
           "settings": {
-            "image": "shopify://shop_images/LOCALIZME.png",
+            "image": "shopify://shop_images/You_are_the_hero.png",
             "image_width": 300,
             "heading_size": "h3",
-            "title": "Inscrivez-vous à notre newsletter",
+            "title": "Sign up to our newsletter.",
             "content": ""
           }
         },
@@ -108,8 +108,8 @@
         "text": {
           "type": "text",
           "settings": {
-            "title": "Service client",
-            "content": "<p><strong>Email</strong>:<br/>contact@localizme.com</p><p><strong>Horaires</strong>:<strong> </strong>Du Lun au Ven de 9h à 12h et de 13h à 18h / Sam et Dim de 10h à 12h</p>",
+            "title": "Customer service",
+            "content": "<p><strong>Email</strong>:<br/>contact@actionpro.com</p><p><strong>Working hours</strong>:<strong> </strong>Mon-Fri 9am to 6pm / Sat/Sun 10am to 2pm</p>",
             "enable_follow_on_shop": true
           }
         }
