@@ -118,7 +118,7 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/20250809_2335_Immersive_Camera_Experience_remix_01k28ffqx4fqr83haqvmdhy3e8.png",
+        "image": "shopify://shop_images/20250811_1158_Vibrant_Mountain_Coastline_remix_01k2ccbc5re4nvn6gk8nr150g7.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -392,6 +392,12 @@
             "heading_tag": "h2"
           }
         },
+        "text_XQXxXU": {
+          "type": "text",
+          "settings": {
+            "text": "<h5>🎁 Free gifts (limited offer)<br/>🌐 Film anywhere, hands-free<br/>🔋 Battery life: 180 minutes<br/>🧲 Quick magnetic attachment</h5>"
+          }
+        },
         "price_9ffVhz": {
           "type": "price",
           "settings": {
@@ -492,6 +498,7 @@
       "block_order": [
         "liquid_kh67wY",
         "title_G3LG3R",
+        "text_XQXxXU",
         "price_9ffVhz",
         "badges_nTHYfz",
         "rating_6pttnP",
