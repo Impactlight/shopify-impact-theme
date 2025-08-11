@@ -540,120 +540,16 @@
         "text_color": ""
       }
     },
-    "multi_column_jepBLc": {
-      "type": "multi-column",
-      "blocks": {
-        "item_gPHFYr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/1_238a95fb-e782-4af7-8742-af1149a3bf15.png",
-            "column_size": "3",
-            "title": "Etape 1",
-            "heading_tag": "h4",
-            "content": "<p>Ouvrir \"Apple Localiser\"</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_fP6XQg": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/2_e41a4381-24be-4d0a-9621-708a7ecbe43a.png",
-            "column_size": "3",
-            "title": "Etape 2",
-            "heading_tag": "h4",
-            "content": "<p>Activer la carte en appuyant 1 fois</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yK3JUe": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/3_58699772-86e8-4c77-97a7-657d24e9dc8f.png",
-            "column_size": "3",
-            "title": "Etape 3",
-            "heading_tag": "h4",
-            "content": "<p>Ajouter un objet</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XYp8jW": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/4_fd175baa-35fa-4245-ae0c-07d5e49b7631.png",
-            "column_size": "3",
-            "title": "Etape 4",
-            "heading_tag": "h4",
-            "content": "<p>Connecter la carte Localizme.</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_XEKwWM": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/5_29cf9503-c447-41cb-a241-834793113f47.png",
-            "column_size": "3",
-            "title": "Etape 5",
-            "heading_tag": "h4",
-            "content": "<p>Cet object est associé a votre compte Apple</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_tFpJMT": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Localiser_7.png",
-            "column_size": "3",
-            "title": "Etape 7",
-            "heading_tag": "h4",
-            "content": "<p>Finit !</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_gPHFYr",
-        "item_fP6XQg",
-        "item_yK3JUe",
-        "item_XYp8jW",
-        "item_XEKwWM",
-        "item_tFpJMT"
-      ],
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "small",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "Installez-la en moins de 45 secondes",
-        "content": "<p>Suivez ces étapes simples pour connecter votre carte de suivi Localizme.<br/></p>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "press": {
       "type": "press",
       "blocks": {
         "16644243327ba53d2a-0": {
           "type": "quote",
           "settings": {
-            "logo": "shopify://shop_images/forbes-magazine-logo-pkvos04qcq5w7ycv-pkvos04qcq5w7ycv.png",
+            "logo": "shopify://shop_images/logo-compact.svg",
             "logo_width": 145,
             "author": "",
-            "content": "Oubliez l'AirTag : les carte de suivi offre des fonctionnalités supérieures à celles d'Apple",
+            "content": "The thumb-sized wearable action camera delivers 4K video, hands-free POV footage and viral-worthy clips.",
             "show_rating": true,
             "rating": 5
           }
@@ -845,7 +741,7 @@
         "color_scheme": "",
         "header_text": "",
         "show_top": true,
-        "rating_text": "4.8 sur 548 avis",
+        "rating_text": "4.8  out of 5",
         "rating_range": 4.5,
         "rating_count": "",
         "review_column_mobile": "2",
@@ -1193,7 +1089,6 @@
     "featured_product_qPJEyK",
     "custom_liquid_cEjEtq",
     "multi_column_aVQBXm",
-    "multi_column_jepBLc",
     "press",
     "lumin_review_hANwfT",
     "faq_XTBPNU",
