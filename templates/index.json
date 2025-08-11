@@ -210,83 +210,6 @@
         "text_color": ""
       }
     },
-    "multi_column_9k9Hy3": {
-      "type": "multi-column",
-      "blocks": {
-        "item_aye3h6": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/copy_3.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h5>Valises retrouvées grâce à Localizme</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_yh37ea": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/copy_4.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h5>Parents rassurés chaque jour</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_8LY3xr": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/Screenshot_2025-06-29_003057.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h5>des utilisateurs déclarent avoir localisé leur objet en moins de 5 minutes</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
-        "item_AqePjm": {
-          "type": "item",
-          "settings": {
-            "image": "shopify://shop_images/copy_5.png",
-            "column_size": "4",
-            "title": "",
-            "heading_tag": "h4",
-            "content": "<h5>Abonnement. 100% satisfaction.</h5>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        }
-      },
-      "block_order": [
-        "item_aye3h6",
-        "item_yh37ea",
-        "item_8LY3xr",
-        "item_AqePjm"
-      ],
-      "disabled": true,
-      "name": "Multi-column",
-      "settings": {
-        "full_width": true,
-        "stack_on_mobile": false,
-        "gap": "medium",
-        "text_alignment": "center",
-        "subheading": "",
-        "title": "",
-        "content": "",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_UndwFa": {
       "type": "multi-column",
       "blocks": {
@@ -1266,7 +1189,6 @@
     "rich_text_cGyEJL",
     "video_pn8YyR",
     "rich_text_Bw9fbL",
-    "multi_column_9k9Hy3",
     "multi_column_UndwFa",
     "featured_product_qPJEyK",
     "custom_liquid_cEjEtq",
