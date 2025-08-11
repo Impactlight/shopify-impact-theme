@@ -347,7 +347,7 @@
           "type": "image",
           "settings": {
             "image": "shopify://shop_images/Offre_Speciale_68dc3355-1b19-456a-83b4-f7b21f1d62a7.png",
-            "alignment": "center",
+            "alignment": "start",
             "max_width": 500
           }
         },
@@ -367,13 +367,19 @@
             "size_chart_page": ""
           }
         },
+        "liquid_rLc6W6": {
+          "type": "liquid",
+          "settings": {
+            "liquid": "<section class=\"flash-offer\" style=\"text-align:center; font-family: Arial, sans-serif;\">\n  <div style=\"font-size: 1.5rem; font-weight: bold;\">\n    🎁 Flash Offer: 4 FREE Accessories\n  </div>\n  <div style=\"font-size: 1rem; margin-top: 5px;\">\n    Order now before the timer runs out:\n  </div>\n\n  <div id=\"countdown\" style=\"font-size: 2rem; font-weight: bold; margin-top: 10px;\">\n    00:20:00\n  </div>\n\n  <div style=\"font-size: 0.8rem; color: #666;\">\n    Mins &nbsp;&nbsp; Secs\n  </div>\n\n  <script>\n    (function() {\n      var countdownElement = document.getElementById(\"countdown\");\n      var duration = 20 * 60; // 20 minutes in seconds\n      var timer = duration, minutes, seconds;\n\n      setInterval(function () {\n        minutes = parseInt(timer / 60, 10);\n        seconds = parseInt(timer % 60, 10);\n\n        minutes = minutes < 10 ? \"0\" + minutes : minutes;\n        seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n        countdownElement.textContent = \"00:\" + minutes + \":\" + seconds;\n\n        if (--timer < 0) {\n          timer = 0; // stop at 0 or reset to duration if you want it to loop\n        }\n      }, 1000);\n    })();\n  </script>\n</section>"
+          }
+        },
         "buy_buttons_LDyiKA": {
           "type": "buy_buttons",
           "settings": {
-            "show_payment_button": true,
+            "show_payment_button": false,
             "show_gift_card_recipient": true,
-            "atc_button_background": "",
-            "atc_button_text_color": "",
+            "atc_button_background": "#38b6ff",
+            "atc_button_text_color": "#000000",
             "payment_button_background": "",
             "payment_button_text_color": ""
           }
@@ -435,6 +441,7 @@
         "image_AeVEgJ",
         "liquid_KHbtiG",
         "variant_picker_3VmLhc",
+        "liquid_rLc6W6",
         "buy_buttons_LDyiKA",
         "liquid_akRdEt",
         "pickup_availability_yf4fcc",
