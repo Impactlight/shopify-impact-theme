@@ -47,7 +47,7 @@
         "logo_erXnqf": {
           "type": "logo",
           "settings": {
-            "logo": "shopify://shop_images/gq-logo-png-transparent.png",
+            "logo": "shopify://shop_images/logo-compact.svg",
             "logo_width": 300,
             "link": ""
           }
