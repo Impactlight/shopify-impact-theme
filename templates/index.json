@@ -784,29 +784,29 @@
         "item_PifcqR": {
           "type": "item",
           "settings": {
-            "title": "Comment fonctionne la carte de suivi Localizme?",
-            "content": "<p>La carte de suivi Localizme utilise le réseau Localiser d'Apple pour suivre facilement votre portefeuille et vos autres objets essentiels ou proches. Il vous suffit de l'intégrer à votre appareil iOS grâce à l'application Localiser pour localiser facilement vos affaires et vos proches. </p>"
+            "title": "Can the ActionPRO take photos?",
+            "content": "<p>Absolutely ! The ActionPRO can also take photos.</p>"
           }
         },
         "item_CHWDW3": {
           "type": "item",
           "settings": {
-            "title": "Quelle est la finesse de la carte ?",
-            "content": "<p>La carte de suivi Localizme est ultra-fine, avec seulement 2.5mm d'épaisseur. Elle se glisse facilement dans votre portefeuille sans ajouter de volume ni gêne.</p>"
+            "title": "How do I transfer videos to my phone?",
+            "content": "<p>The ActionPRO connects via Wi-Fi through a dedicated mobile app called “Vidilure,” which allows you to instantly transfer, edit, and share your videos</p>"
           }
         },
         "item_8DHkxg": {
           "type": "item",
           "settings": {
-            "title": "La carte nécessite-t-elle d'être rechargée ?",
-            "content": "<p><strong>La carte Localizme se recharge sans fil — tout simplement.</strong><br/><br/>Posez-la sur n’importe quel socle de charge sans fil : la LED s’illumine indiquant la recharge en cours.<br/><br/>💡 <strong>Une seule charge = jusqu’à 5 mois de tranquillité.</strong><br/><br/>Grâce à son témoin lumineux intelligent, vous savez quand elle est prête.<br/><br/>Réutilisable à l’infini, <strong>zéro pile, zéro gaspillage</strong> : un choix plus économique, plus durable, plus malin.<br/><br/></p>"
+            "title": "Does the ActionPRO have image stabilization?",
+            "content": "<p>Yes, it’s equipped with advanced Electronic Image Stabilization (EIS) to ensure smooth, shake-free videos — even while moving.</p>"
           }
         },
         "item_V7GNGF": {
           "type": "item",
           "settings": {
-            "title": "La carte est-elle compatible avec les appareils non Apple ?",
-            "content": "<p>Actuellement, la carte de suivi Localizme est optimisée pour une utilisation uniquement avec les appareils Apple et l'application Localiser. Cependant, nous étudions constamment les possibilités d'étendre la compatibilité avec d'autres plateformes.</p>"
+            "title": "How can I view my videos?",
+            "content": "<p>We offer three simple ways to do this: </p><ul><li>Connect your camera to your computer using the provided USB cable.</li><li>Use the app to view and manage your videos wirelessly. The app is called “Vidilure” and/or “Sport DV.”</li><li>You can also remove the ActionPRO’s SD card and insert it into your computer to access your files.<br/><br/><br/></li></ul><p><br/><br/></p><p><br/><br/></p>"
           }
         },
         "item_MHRw6e": {
@@ -877,8 +877,8 @@
       "settings": {
         "full_width": true,
         "subheading": "",
-        "title": "Avez-vous des questions?",
-        "content": "<p>Ecrivez-vous</p>",
+        "title": "Contact US",
+        "content": "",
         "text_position": "center",
         "contact_form_size": "large",
         "background": "",
