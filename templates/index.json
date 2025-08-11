@@ -812,26 +812,27 @@
         "item_MHRw6e": {
           "type": "item",
           "settings": {
-            "title": "Puis-je suivre plusieurs articles avec la carte de suivi ?",
-            "content": "<p>Oui, la carte de suivi Localizme ne se limite pas à votre portefeuille. Elle vous permet de suivre divers articles, tels que bagages, sacs, téléphones, passeports, etc., offrant ainsi une solution de suivi complète pour vos objets du quotidien.</p>"
+            "title": "Does the ActionPRO come with a warranty?",
+            "content": "<p>Yes! The ActionPRO has a 2-year warranty.</p>"
           }
         },
         "item_Rmhqi4": {
           "type": "item",
           "settings": {
-            "title": "Est-elle étanche ?",
-            "content": "<p><strong>Conçue pour durer, même sous la pluie.</strong><br/><br/>La carte Localizme est certifiée <strong>IP65</strong> : résistante à l’eau, à la poussière et aux éclaboussures du quotidien.<br/><br/>💧 Glissée dans un sac, un portefeuille ou une valise, elle reste parfaitement fonctionnelle — même sous une averse.</p><p><strong>Utilisez-la en toute confiance, par tous les temps.</strong></p>"
+            "title": "What if I’m not satisfied?",
+            "content": "<p>We offer a “30-day satisfaction or your money back” guarantee! If the product does not meet your expectations, you have 30 days from the date of receipt to request a refund. We will refund you in full.</p>"
           }
         },
         "item_V8VcDF": {
           "type": "item",
           "settings": {
-            "title": "Comment contacter le service client ?",
-            "content": "<p>Pour toute question ou assistance concernant les produits Localizme, y compris la carte de suivi, veuillez contacter notre service client par e-mail à l'adresse support@localizme.com ou via le formulaire de contact de notre site web. Nous sommes là pour vous aider !</p>"
+            "title": "What is the delivery time?",
+            "content": "<p>It takes between 6 and 8 days to receive your order. You will receive email updates on your order status.</p>"
           }
         },
         "item_3WahAf": {
           "type": "item",
+          "disabled": true,
           "settings": {
             "title": "Garantie 2 ans",
             "content": "<p>Notre carte de suivi est résistante aux rayures, imperméable et conçue pour durer toute une vie. En cas d'incident, nous la remplacerons par une nouvelle ou la rembourserons intégralement.<br/><br/>Pour demander un remplacement ou un remboursement, veuillez contacter notre service clientèle à l'adresse support@localizme.com.</p>"
