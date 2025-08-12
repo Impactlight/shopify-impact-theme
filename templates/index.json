@@ -376,6 +376,19 @@
           "type": "quantity_selector",
           "settings": {}
         },
+        "offer_whRQwB": {
+          "type": "offer",
+          "settings": {
+            "text_alignment": "start",
+            "icon_position": "aligned",
+            "icon": "picto-award-gift",
+            "icon_width": 32,
+            "title": "Buy 2 & Get an extra 20% !!",
+            "content": "<p>7 out of 10 customers gift an ActionPRO to their friends/family </p>",
+            "background": "#f4edd4",
+            "text_color": "#f83a3a"
+          }
+        },
         "buy_buttons_LDyiKA": {
           "type": "buy_buttons",
           "settings": {
@@ -445,6 +458,7 @@
         "image_MpMJ6r",
         "liquid_rLc6W6",
         "quantity_selector_gTwmiA",
+        "offer_whRQwB",
         "buy_buttons_LDyiKA",
         "liquid_akRdEt",
         "pickup_availability_yf4fcc",
