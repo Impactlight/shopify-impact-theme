@@ -468,31 +468,17 @@
         "input_text_color": ""
       }
     },
-    "custom_liquid_cEjEtq": {
-      "type": "custom-liquid",
-      "disabled": true,
-      "name": "Custom Liquid",
-      "settings": {
-        "full_width": true,
-        "remove_vertical_spacing": true,
-        "remove_horizontal_spacing": false,
-        "liquid": "<div style=\"text-align: center; margin-bottom: 30px;\">\n  <a href=\"#connect\" style=\"background-color: #0055FF; color: white; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-right: 10px;\">Connecter la carte</a>\n\n  <a href=\"#wallet\" style=\"background-color: #F2F2F2; color: #333; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600; margin-right: 10px;\">Ajouter au portefeuille</a>\n\n  <a href=\"#track\" style=\"background-color: #F2F2F2; color: #333; padding: 10px 20px; border-radius: 8px; text-decoration: none; font-weight: 600;\">Suivre & Sonner</a>\n</div>",
-        "background": "",
-        "background_gradient": "",
-        "text_color": ""
-      }
-    },
     "multi_column_aVQBXm": {
       "type": "multi-column",
       "blocks": {
         "item_btticA": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/how-gif1.webp",
+            "image": "shopify://shop_images/Untitled_design-22.gif",
             "column_size": "3",
-            "title": "1️⃣ Se connecter à Apple Localiser",
+            "title": "Waterproof case",
             "heading_tag": "h4",
-            "content": "<p><strong>Approchez-la de votre iPhone et touchez une fois.<br/></strong><br/>C’est tout. Pas d’application. Aucune configuration. Votre carte est prête en quelques secondes.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -501,11 +487,11 @@
         "item_Wk9DBa": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/how-gif2.webp",
+            "image": "shopify://shop_images/Untitled_design-24.gif",
             "column_size": "3",
-            "title": "2️⃣ Rangez-la en toute sécurité",
+            "title": "Back clip",
             "heading_tag": "h4",
-            "content": "<p><strong>Glissez-la dans votre portefeuille, sac ou passeport.<br/></strong><br/>Elle est fine, discrète et prête à vous servir quand vous en avez besoin.</p>",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -514,11 +500,24 @@
         "item_8DNa7e": {
           "type": "item",
           "settings": {
-            "image": "shopify://shop_images/how-gif3.webp",
+            "image": "shopify://shop_images/Untitled_design-25.gif",
             "column_size": "3",
-            "title": "3️⃣ Suivez-la, faites-la sonner, retrouvez-la",
+            "title": "Helmet mount",
             "heading_tag": "h4",
-            "content": "<p><strong>Utilisez l’app Localiser pour voir sa position.<br/></strong><br/>Si elle est proche, appuyez sur “Émettre un son” pour la repérer, même dans un sac ou sous un coussin.</p>",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_xkkTV7": {
+          "type": "item",
+          "settings": {
+            "image": "shopify://shop_images/Untitled_design-26.gif",
+            "column_size": "3",
+            "title": "Cycling stand",
+            "heading_tag": "h4",
+            "content": "",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -528,17 +527,17 @@
       "block_order": [
         "item_btticA",
         "item_Wk9DBa",
-        "item_8DNa7e"
+        "item_8DNa7e",
+        "item_xkkTV7"
       ],
-      "disabled": true,
       "name": "Multi-column",
       "settings": {
         "full_width": true,
         "stack_on_mobile": false,
         "gap": "small",
         "text_alignment": "center",
-        "subheading": "Installez-le en moins de 45 secondes",
-        "title": "La plupart des clients se connectent et commencent le suivi en moins d'une minute. Voici comment :",
+        "subheading": "",
+        "title": "Get all situation covered",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -1094,7 +1093,6 @@
     "rich_text_Bw9fbL",
     "multi_column_UndwFa",
     "featured_product_qPJEyK",
-    "custom_liquid_cEjEtq",
     "multi_column_aVQBXm",
     "press",
     "lumin_review_hANwfT",
