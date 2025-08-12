@@ -214,19 +214,6 @@
     "multi_column_UndwFa": {
       "type": "multi-column",
       "blocks": {
-        "item_Pw8HwE": {
-          "type": "item",
-          "settings": {
-            "video": "shopify://files/videos/b7b62aa2977048bd9d1f8cc472d3a52d.mp4",
-            "column_size": "3",
-            "title": "Steve C. - Verified customer ✅",
-            "heading_tag": "h4",
-            "content": "<p>Best investment! The image is super stable on the bike and the quality is top 👍 I have the live videos connected to my phone so I can post on social networks easily. Action Pro is TOP!</p>",
-            "link_url": "",
-            "link_text": "",
-            "link_style": "link"
-          }
-        },
         "item_3YfeGx": {
           "type": "item",
           "settings": {
@@ -240,14 +227,14 @@
             "link_style": "link"
           }
         },
-        "item_mGz7gB": {
+        "item_Pw8HwE": {
           "type": "item",
           "settings": {
-            "video": "shopify://files/videos/a89ec2dd88954bd5b4f4fafe61d558b1.mp4",
+            "video": "shopify://files/videos/b7b62aa2977048bd9d1f8cc472d3a52d.mp4",
             "column_size": "3",
-            "title": "Jake P. - Verified customer ✅",
+            "title": "Steve C. - Verified customer ✅",
             "heading_tag": "h4",
-            "content": "<p>Absolutely boss! The night vision’s proper impressive – you can see every last thing clear as day, even in the dark. With ACTIONPRO, my drives are miles better and safer now – I’ve binned off using me phone to film altogether.<br/><br/></p>",
+            "content": "<p>Best investment! The image is super stable on the bike and the quality is top 👍 I have the live videos connected to my phone so I can post on social networks easily. Action Pro is TOP!</p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -260,7 +247,20 @@
             "column_size": "3",
             "title": "David C. - Verified customer✅",
             "heading_tag": "h4",
-            "content": "<p>I’d recommend it a hundred percent – you won’t regret it! I film my football matches and it honestly feels like you’re right there on the pitch. The quality and the viewing angle are unreal, every bit of the action’s captured like you’re part of the game. I’ve never been able to film like this with any other camera without it getting in the way.</p>",
+            "content": "<p>I’d recommend it 100% – you won’t regret it! I film my football matches & honestly feels like you’re right there on the pitch. The quality and the viewing angle are unreal, every bit of the action’s captured like you’re part of the game. I’ve never been able to film like this with any other camera without it getting in the way.</p>",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_mGz7gB": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/a89ec2dd88954bd5b4f4fafe61d558b1.mp4",
+            "column_size": "3",
+            "title": "Jake P. - Verified customer ✅",
+            "heading_tag": "h4",
+            "content": "<p>Absolutely boss! The night vision’s proper impressive – you can see every last thing clear as day, even in the dark. With ACTIONPRO, my drives are miles better and safer now – I’ve binned off using me phone to film altogether.<br/><br/></p>",
             "link_url": "",
             "link_text": "",
             "link_style": "link"
@@ -281,10 +281,10 @@
         }
       },
       "block_order": [
-        "item_Pw8HwE",
         "item_3YfeGx",
-        "item_mGz7gB",
+        "item_Pw8HwE",
         "item_kNnTJK",
+        "item_mGz7gB",
         "item_DGdEU8"
       ],
       "name": "Multi-column",
