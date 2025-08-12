@@ -118,7 +118,8 @@
         "allow_transparent_header": false,
         "enable_parallax": false,
         "image_size": "auto",
-        "image": "shopify://shop_images/20250811_1158_Vibrant_Mountain_Coastline_remix_01k2ccbc5re4nvn6gk8nr150g7.png",
+        "image": "shopify://shop_images/Reviews_2.png",
+        "mobile_image": "shopify://shop_images/20250811_1158_Vibrant_Mountain_Coastline_remix_01k2ccbc5re4nvn6gk8nr150g7.png",
         "mobile_text_position": "place-self-center text-center",
         "desktop_text_position": "sm:place-self-center sm:text-center",
         "text_color": "#ffffff",
@@ -367,10 +368,18 @@
             "size_chart_page": ""
           }
         },
+        "image_MpMJ6r": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20250812_1542_Free_Camera_Accessories_Offer_remix_01k2fbjx36fgat75ge028vsaj5.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_rLc6W6": {
           "type": "liquid",
           "settings": {
-            "liquid": "<section class=\"flash-offer\" style=\"text-align:center; font-family: Arial, sans-serif;\">\n  <div style=\"font-size: 1.5rem; font-weight: bold;\">\n    🎁 Flash Offer: 4 FREE Accessories\n  </div>\n  <div style=\"font-size: 1rem; margin-top: 5px;\">\n    Order now before the timer runs out:\n  </div>\n\n  <div id=\"countdown\" style=\"font-size: 2rem; font-weight: bold; margin-top: 10px;\">\n    00:20:00\n  </div>\n\n  <div style=\"font-size: 0.8rem; color: #666;\">\n    Mins &nbsp;&nbsp; Secs\n  </div>\n\n  <script>\n    (function() {\n      var countdownElement = document.getElementById(\"countdown\");\n      var duration = 20 * 60; // 20 minutes in seconds\n      var timer = duration, minutes, seconds;\n\n      setInterval(function () {\n        minutes = parseInt(timer / 60, 10);\n        seconds = parseInt(timer % 60, 10);\n\n        minutes = minutes < 10 ? \"0\" + minutes : minutes;\n        seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n        countdownElement.textContent = \"00:\" + minutes + \":\" + seconds;\n\n        if (--timer < 0) {\n          timer = 0; // stop at 0 or reset to duration if you want it to loop\n        }\n      }, 1000);\n    })();\n  </script>\n</section>"
+            "liquid": "<section class=\"flash-offer\" style=\"display: flex; align-items: center; gap: 15px; background: #fff4e6; border: 2px solid #ff9800; padding: 10px 15px; border-radius: 8px; font-family: Arial, sans-serif;\">\n  \n  <!-- Offer Text -->\n  <div style=\"display: flex; flex-direction: column; justify-content: center;\">\n    <div style=\"font-size: 1.3rem; font-weight: bold; color: #d35400;\">\n      🎁 Flash Offer: 4 FREE Accessories\n    </div>\n    <div style=\"font-size: 0.95rem; color: #333;\">\n      Order now before the timer runs out:\n    </div>\n  </div>\n\n  <!-- Countdown -->\n  <div style=\"display: flex; flex-direction: column; align-items: center; margin-left: auto;\">\n    <div id=\"countdown\" style=\"font-size: 1.8rem; font-weight: bold; color: #e74c3c;\">\n      00:20:00\n    </div>\n    <div style=\"font-size: 0.8rem; color: #666;\">\n      Mins&nbsp;&nbsp;Secs\n    </div>\n  </div>\n\n  <!-- Script -->\n  <script>\n    (function() {\n      var countdownElement = document.getElementById(\"countdown\");\n      var duration = 20 * 60; // 20 minutes in seconds\n      var timer = duration, minutes, seconds;\n\n      setInterval(function () {\n        minutes = parseInt(timer / 60, 10);\n        seconds = parseInt(timer % 60, 10);\n\n        minutes = minutes < 10 ? \"0\" + minutes : minutes;\n        seconds = seconds < 10 ? \"0\" + seconds : seconds;\n\n        countdownElement.textContent = \"00:\" + minutes + \":\" + seconds;\n\n        if (--timer < 0) {\n          timer = 0; // stop at 0\n        }\n      }, 1000);\n    })();\n  </script>\n\n</section>"
           }
         },
         "buy_buttons_LDyiKA": {
@@ -441,6 +450,7 @@
         "image_AeVEgJ",
         "liquid_KHbtiG",
         "variant_picker_3VmLhc",
+        "image_MpMJ6r",
         "liquid_rLc6W6",
         "buy_buttons_LDyiKA",
         "liquid_akRdEt",
