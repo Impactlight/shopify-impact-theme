@@ -415,18 +415,18 @@
             "content": "<ul><li>Hands-free recording in 4K UHD (3840×2160 pixels) or Full HD 1080p, depending on the version</li><li>Ultra-wide 120° lens (wide-angle or normal mode)</li><li>Advanced electronic stabilization + built-in clear audio recording (AAC/MP3)</li><li>Ultra-compact & portable: only 64.5 × 28 × 20 mm, mini format with clip & magnet</li><li>360° magnetic mount + rotating clip for total freedom of use</li><li>Up to 3 hours battery life (800 mAh), ~30 min recharge, supports recording while charging</li><li>Water-resistant (up to 30 m) with waterproof case</li><li>Supports microSD cards up to 256 GB</li><li>Operating temperature: -10°C to 60°C</li><li>Loop recording function for continuous use</li><li>Wi-Fi & Bluetooth connectivity for instant transfer via mobile app</li><li>2-year warranty + easy returns within 30 days<br/><br/></li></ul>"
           }
         },
+        "collapsible_text_RQqryz": {
+          "type": "collapsible_text",
+          "settings": {
+            "title": "Which version should you choose: Full HD or 4K UHD?",
+            "content": "<p>The <strong>4K UHD</strong> version offers four times the resolution of the Full HD (1080p) version—3840 × 2160 pixels compared to 1920 × 1080. This higher precision captures more detail, sharper images, and better results even during fast motion or low-light conditions.</p><p>The <strong>1080p</strong> version is perfectly fine for basic use, but if image quality is a top priority, <strong>4K is the clear winner</strong>.</p>"
+          }
+        },
         "collapsible_text_UjHFPL": {
           "type": "collapsible_text",
           "settings": {
-            "title": "Expédition et retours",
-            "content": "<p><strong>LIVRAISON GRATUITE </strong><br/><br/>Pas de frais supplémentaires ! Les droits et taxes sont déjà inclus dans le prix total.<br/><br/><strong>EXPÉDITION DANS LE MONDE ENTIER</strong><br/>Veuillez tenir compte des délais d'expédition suivants :<br/>Délai de traitement : 1 jour<br/>Expédition express : (4-8 jours ouvrables)<br/><br/><strong>POLITIQUE DE RETOUR DE 60 JOURS</strong><br/>Nous garantissons la qualité de nos produits et offrons une politique de retour de 60 jours pour toutes les commandes, même si le produit a été utilisé. Pour effectuer un retour, veuillez contacter notre service client à l'adresse <br/>support@localizme.com.</p>"
-          }
-        },
-        "collapsible_text_87agEy": {
-          "type": "collapsible_text",
-          "settings": {
-            "title": "Garantie 2 ans",
-            "content": "<p>Notre carte de suivi est résistante aux rayures, imperméable et conçue pour durer toute une vie. En cas d'incident, nous la remplacerons par une nouvelle ou la rembourserons intégralement.<br/><br/>Pour demander un remplacement ou un remboursement, veuillez contacter notre service clientèle à l'adresse support@localizme.com.</p>"
+            "title": "Shipping and return",
+            "content": "<p>FREE SHIPPING No extra fees! Duties and taxes are already included in the total price. <br/><br/>WORLDWIDE SHIPPING Please note the following shipping times: </p><p>Processing time: 1 day <br/>Express shipping: (4-8 business days) <br/><br/>30-DAY RETURN POLICY We stand behind the quality of our products and offer a 30-day return policy for all orders, even if the product has been used. To make a return, please contact our customer service at contact@actionpro.com</p>"
           }
         }
       },
@@ -448,8 +448,8 @@
         "collapsible_text_mqwj98",
         "collapsible_text_3zd4qh",
         "collapsible_text_AXYaUQ",
-        "collapsible_text_UjHFPL",
-        "collapsible_text_87agEy"
+        "collapsible_text_RQqryz",
+        "collapsible_text_UjHFPL"
       ],
       "name": "Featured product",
       "settings": {
