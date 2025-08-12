@@ -328,16 +328,6 @@
             "show_taxes_notice": false
           }
         },
-        "badges_nTHYfz": {
-          "type": "badges",
-          "settings": {}
-        },
-        "rating_6pttnP": {
-          "type": "rating",
-          "settings": {
-            "show_empty": false
-          }
-        },
         "description_4efjyL": {
           "type": "description",
           "settings": {
@@ -444,8 +434,6 @@
         "title_G3LG3R",
         "text_XQXxXU",
         "price_9ffVhz",
-        "badges_nTHYfz",
-        "rating_6pttnP",
         "description_4efjyL",
         "image_AeVEgJ",
         "liquid_KHbtiG",
