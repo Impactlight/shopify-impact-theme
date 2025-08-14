@@ -369,12 +369,12 @@
         "offer_whRQwB": {
           "type": "offer",
           "settings": {
-            "text_alignment": "start",
+            "text_alignment": "center",
             "icon_position": "aligned",
             "icon": "picto-award-gift",
             "icon_width": 32,
-            "title": "Buy 2 & Get an extra 20% at checkout !!",
-            "content": "<p>7 out of 10 customers gift an ActionPRO to their friends/family </p>",
+            "title": "Buy 2 & Get extra 20% off at checkout without code!!",
+            "content": "<h6>7 out of 10 customers gift an ActionPRO to their friends/family </h6>",
             "background": "#fff4e6",
             "text_color": "#f83a3a"
           }
