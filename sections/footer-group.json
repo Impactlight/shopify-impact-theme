@@ -91,7 +91,7 @@
         "newsletter_YBQPr3": {
           "type": "newsletter",
           "settings": {
-            "image": "shopify://shop_images/You_are_the_hero.png",
+            "image": "shopify://shop_images/You_are_the_hero_13_3c19eb51-6988-4991-b4fb-0b550b4b44d8.png",
             "image_width": 300,
             "heading_size": "h3",
             "title": "Sign up to our newsletter.",
@@ -101,7 +101,7 @@
         "links": {
           "type": "links",
           "settings": {
-            "menu": "footer",
+            "menu": "quick-links-1",
             "show_menu_title": true
           }
         },
