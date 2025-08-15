@@ -109,7 +109,7 @@
           "type": "text",
           "settings": {
             "title": "Customer service",
-            "content": "<p><strong>Email</strong>:<br/>contact@actionpro.com</p><p><strong>Working hours</strong>:<strong> </strong>Mon-Fri 9am to 6pm / Sat/Sun 10am to 2pm</p>",
+            "content": "<p><strong>Email</strong>:<br/>contact@getactionpro.com</p><p><strong>Working hours</strong>:<strong> </strong>Mon-Fri 9am to 6pm / Sat/Sun 10am to 2pm</p>",
             "enable_follow_on_shop": true
           }
         }
