@@ -438,6 +438,14 @@
             "content": "<p>The <strong>4K UHD</strong> version offers four times the resolution of the Full HD (1080p) version—3840 × 2160 pixels compared to 1920 × 1080. This higher precision captures more detail, sharper images, and better results even during fast motion or low-light conditions.</p><p>The <strong>1080p</strong> version is perfectly fine for basic use, but if image quality is a top priority, <strong>4K is the clear winner</strong>.</p>"
           }
         },
+        "collapsible_text_wwUAxB": {
+          "type": "collapsible_text",
+          "disabled": true,
+          "settings": {
+            "title": "4K UHD experience",
+            "content": "<p>The <strong>4K UHD</strong> version offers four times the resolution of the Full HD (1080p) version—3840 × 2160 pixels compared to 1920 × 1080. This higher precision captures more detail, sharper images, and better results even during fast motion or low-light conditions.</p>"
+          }
+        },
         "collapsible_text_UjHFPL": {
           "type": "collapsible_text",
           "settings": {
@@ -466,6 +474,7 @@
         "collapsible_text_3zd4qh",
         "collapsible_text_AXYaUQ",
         "collapsible_text_RQqryz",
+        "collapsible_text_wwUAxB",
         "collapsible_text_UjHFPL"
       ],
       "name": "Featured product",
@@ -829,7 +838,7 @@
           "type": "item",
           "settings": {
             "title": "How can I view my videos?",
-            "content": "<p>We offer three simple ways to do this: </p><ul><li>Connect your camera to your computer using the provided USB cable.</li><li>Use the app to view and manage your videos wirelessly. The app is called “Vidilure” and/or “Sport DV.”</li><li>You can also remove the ActionPRO’s SD card and insert it into your computer to access your files.<br/><br/><br/></li></ul><p><br/><br/></p><p><br/><br/></p>"
+            "content": "<p>We offer three simple ways to do this: </p><ul><li>Connect your camera to your computer using the provided USB cable.</li><li>Use the app to view and manage your videos wirelessly. The app is called “Vidilure” and/or “Sport DV.”</li><li>You can also remove the ActionPRO’s SD card and insert it into your computer to access your files.</li></ul>"
           }
         },
         "item_MHRw6e": {
@@ -850,7 +859,7 @@
           "type": "item",
           "settings": {
             "title": "What is the delivery time?",
-            "content": "<p>It takes between 6 and 8 days to receive your order. You will receive email updates on your order status.</p>"
+            "content": "<p>It takes between 6 and 9 days to receive your order. You will receive email updates on your order status.</p>"
           }
         },
         "item_3WahAf": {
