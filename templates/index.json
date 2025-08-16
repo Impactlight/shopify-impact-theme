@@ -579,6 +579,36 @@
         "text_color": ""
       }
     },
+    "press": {
+      "type": "press",
+      "blocks": {
+        "16644243327ba53d2a-0": {
+          "type": "quote",
+          "settings": {
+            "logo": "shopify://shop_images/logo-compact.svg",
+            "logo_width": 145,
+            "author": "",
+            "content": "The thumb-sized wearable action camera delivers 4K video, hands-free POV footage and viral-worthy clips.",
+            "show_rating": true,
+            "rating": 5
+          }
+        }
+      },
+      "block_order": [
+        "16644243327ba53d2a-0"
+      ],
+      "settings": {
+        "full_width": true,
+        "content_size": "medium",
+        "background": "",
+        "background_gradient": "",
+        "text_color": "",
+        "heading_color": "",
+        "heading_gradient": "",
+        "logo_item_background": "",
+        "logo_item_border": ""
+      }
+    },
     "rich_text_LfPKJq": {
       "type": "rich-text",
       "blocks": {
@@ -681,36 +711,6 @@
         "background": "",
         "background_gradient": "",
         "text_color": ""
-      }
-    },
-    "press": {
-      "type": "press",
-      "blocks": {
-        "16644243327ba53d2a-0": {
-          "type": "quote",
-          "settings": {
-            "logo": "shopify://shop_images/logo-compact.svg",
-            "logo_width": 145,
-            "author": "",
-            "content": "The thumb-sized wearable action camera delivers 4K video, hands-free POV footage and viral-worthy clips.",
-            "show_rating": true,
-            "rating": 5
-          }
-        }
-      },
-      "block_order": [
-        "16644243327ba53d2a-0"
-      ],
-      "settings": {
-        "full_width": true,
-        "content_size": "medium",
-        "background": "",
-        "background_gradient": "",
-        "text_color": "",
-        "heading_color": "",
-        "heading_gradient": "",
-        "logo_item_background": "",
-        "logo_item_border": ""
       }
     },
     "lumin_review_hANwfT": {
@@ -899,8 +899,8 @@
         "date_size": 14,
         "block_head_size": 20,
         "block_text_size": 14,
-        "star_style": "star_bg",
-        "star_size": 1,
+        "star_style": "star_bg_2",
+        "star_size": 0.9,
         "feature_svg_color": "#00a341",
         "inactive_star_color": "#e2e2e2",
         "show_border": true,
@@ -917,7 +917,7 @@
         "show_product": true,
         "like_text": "Was this helpful?",
         "rw_margin": 0,
-        "padding_top": 36,
+        "padding_top": 8,
         "padding_bottom": 36
       }
     },
@@ -1233,10 +1233,10 @@
     "multi_column_UndwFa",
     "featured_product_qPJEyK",
     "multi_column_Xh7HRB",
+    "press",
     "rich_text_LfPKJq",
     "video_xYCCCe",
     "multi_column_iHhaQy",
-    "press",
     "lumin_review_hANwfT",
     "faq_XTBPNU",
     "contact_QnjHPV",
