@@ -503,15 +503,15 @@
         "input_text_color": ""
       }
     },
-    "multi_column_aVQBXm": {
+    "multi_column_Xh7HRB": {
       "type": "multi-column",
       "blocks": {
-        "item_btticA": {
+        "item_pmKnLr": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Untitled_design-22.gif",
             "column_size": "3",
-            "title": "Waterproof case",
+            "title": "Waterproof case (up to 30m)",
             "heading_tag": "h4",
             "content": "",
             "link_url": "",
@@ -519,7 +519,7 @@
             "link_style": "link"
           }
         },
-        "item_Wk9DBa": {
+        "item_UnNPB3": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Untitled_design-24.gif",
@@ -532,7 +532,7 @@
             "link_style": "link"
           }
         },
-        "item_8DNa7e": {
+        "item_QXxzfB": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Untitled_design-25.gif",
@@ -545,7 +545,7 @@
             "link_style": "link"
           }
         },
-        "item_xkkTV7": {
+        "item_f84aJq": {
           "type": "item",
           "settings": {
             "image": "shopify://shop_images/Untitled_design-26.gif",
@@ -560,10 +560,10 @@
         }
       },
       "block_order": [
-        "item_btticA",
-        "item_Wk9DBa",
-        "item_8DNa7e",
-        "item_xkkTV7"
+        "item_pmKnLr",
+        "item_UnNPB3",
+        "item_QXxzfB",
+        "item_f84aJq"
       ],
       "name": "Multi-column",
       "settings": {
@@ -573,6 +573,110 @@
         "text_alignment": "center",
         "subheading": "",
         "title": "Get all situation covered",
+        "content": "",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "rich_text_LfPKJq": {
+      "type": "rich-text",
+      "blocks": {
+        "heading_LMgarP": {
+          "type": "heading",
+          "settings": {
+            "text": "Before/After",
+            "heading_tag": "h1",
+            "text_color": "",
+            "gradient": ""
+          }
+        }
+      },
+      "block_order": [
+        "heading_LMgarP"
+      ],
+      "name": "Rich text",
+      "settings": {
+        "full_width": true,
+        "content_width": "medium",
+        "text_position": "center",
+        "background": "",
+        "background_gradient": "",
+        "text_color": ""
+      }
+    },
+    "video_xYCCCe": {
+      "type": "video",
+      "disabled": true,
+      "name": "Video",
+      "settings": {
+        "full_width": true,
+        "allow_transparent_header": false,
+        "autoplay": true,
+        "video_size": "auto",
+        "video": "shopify://files/videos/Pro mic installed 1.mp4",
+        "external_video_url": "https://www.youtube.com/watch?v=_9VUPq3SxOc",
+        "text_color": "#ffffff",
+        "overlay_color": "#000000",
+        "overlay_opacity": 0
+      }
+    },
+    "multi_column_iHhaQy": {
+      "type": "multi-column",
+      "blocks": {
+        "item_HftaX8": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Pro mic installed 1.mp4",
+            "column_size": "1.5",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_datnwP": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Pro mic installed 3.mp4",
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        },
+        "item_n7edTT": {
+          "type": "item",
+          "settings": {
+            "video": "shopify://files/videos/Pro mic installed 2.mp4",
+            "column_size": "2",
+            "title": "",
+            "heading_tag": "h4",
+            "content": "",
+            "link_url": "",
+            "link_text": "",
+            "link_style": "link"
+          }
+        }
+      },
+      "block_order": [
+        "item_HftaX8",
+        "item_datnwP",
+        "item_n7edTT"
+      ],
+      "name": "Multi-column",
+      "settings": {
+        "full_width": true,
+        "stack_on_mobile": true,
+        "gap": "small",
+        "text_alignment": "center",
+        "subheading": "",
+        "title": "",
         "content": "",
         "background": "",
         "background_gradient": "",
@@ -1128,7 +1232,10 @@
     "rich_text_Bw9fbL",
     "multi_column_UndwFa",
     "featured_product_qPJEyK",
-    "multi_column_aVQBXm",
+    "multi_column_Xh7HRB",
+    "rich_text_LfPKJq",
+    "video_xYCCCe",
+    "multi_column_iHhaQy",
     "press",
     "lumin_review_hANwfT",
     "faq_XTBPNU",
