@@ -406,6 +406,14 @@
             "payment_button_text_color": ""
           }
         },
+        "image_HDnCbW": {
+          "type": "image",
+          "settings": {
+            "image": "shopify://shop_images/20250817_0155_Money_Back_Icons_remix_01k2tr9nf9fjyt3y7gda02vcpd.png",
+            "alignment": "center",
+            "max_width": 500
+          }
+        },
         "liquid_akRdEt": {
           "type": "liquid",
           "settings": {
@@ -475,6 +483,7 @@
         "quantity_selector_gTwmiA",
         "liquid_KHbtiG",
         "buy_buttons_LDyiKA",
+        "image_HDnCbW",
         "liquid_akRdEt",
         "pickup_availability_yf4fcc",
         "collapsible_text_mqwj98",
