@@ -941,6 +941,13 @@
             "content": "<p>Absolutely ! The ActionPRO can also take photos.</p>"
           }
         },
+        "item_8VGXmT": {
+          "type": "item",
+          "settings": {
+            "title": "Does the device have built-in night vision?",
+            "content": "<p>Yes, the Action PRO includes enhanced night vision and low-light features, allowing for clear recordings even in dark environments.</p>"
+          }
+        },
         "item_CHWDW3": {
           "type": "item",
           "settings": {
@@ -994,6 +1001,7 @@
       },
       "block_order": [
         "item_PifcqR",
+        "item_8VGXmT",
         "item_CHWDW3",
         "item_8DHkxg",
         "item_V7GNGF",
